@@ -887,7 +887,7 @@ Tchi Yeu	EspiritudeDragon	EDR-115-236-TchiYeu	5	2	Criaturas	Aliado	Real	Para ata
 Kitsune	EspiritudeDragon	EDR-116-236-Kitsune	4	3	Criaturas	Aliado	Real	Si ataca y no es bloqueada mira la Mano de tu oponente.
 Yosei	EspiritudeDragon	EDR-117-236-Yosei	5	5	Criaturas	Aliado	Real	Paga dos de Oro y un Aliado bajo tu control sera imbloqueable por este turno.
 Tanuki	EspiritudeDragon	EDR-118-236-Tanuki	4	4	Criaturas	Aliado	Real	Una vez por turno y en tu fase de reagrupar, baraja una carta de tu Cementerio con tu Castillo o roba una carta de tu Mazo Castillo.
-Chiang Shih	EspiritudeDragon	EDR-119-236-Chiang Shih	3	3	Criaturas	Aliado	Real	Paga uno de Oro y este Aliado gana +1 de fuerza.
+Chiang Shih	EspiritudeDragon	EDR-119-236-ChiangShih	3	3	Criaturas	Aliado	Real	Paga uno de Oro y este Aliado gana +1 de fuerza.
 Serpiente Blanca	EspiritudeDragon	EDR-120-236-SerpienteBlanca	1	2	Criaturas	Aliado	Vasallo	Destruye esta carta y una Criatura que tengas en juego no recibe dano en este turno.
 Kilin	EspiritudeDragon	EDR-121-236-Kilin	1	2	Criaturas	Aliado	Vasallo	Paga uno de Oro en batalla mitologica y mira la Mano de tu oponente.
 Yurei	EspiritudeDragon	EDR-122-236-Yurei	2	2	Criaturas	Aliado	Vasallo	Si es destruido roba una carta.
