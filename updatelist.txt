@@ -4,7 +4,6 @@ plugins/myl/cardback.jpg	https://raw.githubusercontent.com/myl-plugin/myl/main/c
 plugins/myl/CardImageURLs1.txt	https://raw.githubusercontent.com/myl-plugin/myl/main/CardImageURLs1.txt	12722206
 plugins/myl/formats.txt	https://raw.githubusercontent.com/myl-plugin/myl/main/formats.txt	52249
 plugins/myl/plugininfo.txt	https://raw.githubusercontent.com/myl-plugin/myl/main/plugininfo.txt	316410
-plugins/myl/pluginpreferences.txt	https://raw.githubusercontent.com/myl-plugin/myl/main/pluginpreferences.txt	213058
 plugins/myl/version.txt	https://raw.githubusercontent.com/myl-plugin/myl/main/version.txt	31239
 CardURLFiles:
 CardImageURLs1.txt
