@@ -1,0 +1,1030 @@
+Name	Set	ImageFile	Fuerza	Coste	Raza	Tipo	Frecuencia	Habilidad
+Odin	ElReto	ERT-001-126-Odin	--	1	--	Talisman	Real	Busca una carta de tu castillo y ponla en tu mano (luego debes volver a barajar tu mazo castillo) (Carta unica).
+Espada Real	ElReto	ERT-002-126-EspadaReal	--	--	--	Oro	Oro	--
+Argonautas	ElReto	ERT-003-126-Argonautas	1	2	--	Aliado	Vasallo	--
+Rey Mono	ElReto	ERT-004-126-ReyMono	3	5	--	Aliado	Vasallo	--
+Grootslang	ElReto	ERT-005-126-Grootslang	1	2	--	Aliado	Real	Puedes destruirlo, buscar un oro en tu castillo y ponerlo en juego.
+Gorgonas	ElReto	ERT-006-126-Gorgonas	--	2	--	Talisman	Vasallo	Una carta de tu oponente que tu elijas tendra fuerza "0" hasta el final del turno.
+Guerrero Jaguar	ElReto	ERT-007-126-GuerreroJaguar	1	3	--	Aliado	Cortesano	Cuando ataca, gana +1 a la fuerza hasta el final del turno.
+Lampara Magica	ElReto	ERT-008-126-LamparaMagica	--	--	--	Oro	Oro	--
+Pegaso	ElReto	ERT-009-126-Pegaso	1	1	--	Aliado	Cortesano	Si Pegaso es destruido, uno de tus aliados gana +1 a la fuerza permanentemente.
+Grifo	ElReto	ERT-010-126-Grifo	2	5	--	Aliado	Vasallo	--
+Ser Abominable	ElReto	ERT-011-126-SerAbominable	0	4	--	Aliado	Real	Una vez por turno puedes copiar la fuerza y habilidades de un aliado en el juego.
+Bufalo Blanco	ElReto	ERT-012-126-BufaloBlanco	--	3	--	Talisman	Cortesano	Todos tus aliados ganan +1 a la fuerza hasta el final del turno.
+Tesoro del Rey	ElReto	ERT-013-126-TesorodelRey	--	--	--	Oro	Oro	--
+Trauko	ElReto	ERT-014-126-Trauko	2	1	--	Aliado	Real	Gana +1 a la fuerza por cada Trauko aliado en juego.
+Seth	ElReto	ERT-015-126-Seth	--	1	--	Talisman	Vasallo	Mira la mano de tu oponente.
+Ogro	ElReto	ERT-016-126-Ogro	1	3	--	Aliado	Vasallo	--
+Vampiro	ElReto	ERT-017-126-Vampiro	0	3	--	Aliado	Cortesano	Bota X cartas de tu castillo (máximo 5) y gana un punto de fuerza por cada carta botada permanentemente.
+Demonio	ElReto	ERT-018-126-Demonio	6	0	--	Aliado	Real	Para ponerla en juego, debes botar 4 cartas de tu castillo.
+Centauro	ElReto	ERT-019-126-Centauro	1	3	--	Aliado	Vasallo	--
+Gnomos Burlones	ElReto	ERT-020-126-GnomosBurlones	2	0	--	Aliado	Cortesano	Cuando entra en juego debes destruir uno de tus Aliados.
+Fruto Sagrado	ElReto	ERT-021-126-FrutoSagrado	--	--	--	Oro	Oro	--
+Oraculo de Delfos	ElReto	ERT-022-126-OraculodeDelfos	--	0	--	Talisman	Real	Al entrar en juego agrega 5 cartas de oro. (Carta unica.)
+Escudo Real	ElReto	ERT-023-126-EscudoReal	--	--	--	Oro	Oro	--
+Ek Chuah	ElReto	ERT-024-126-EkChuah	1	1	--	Aliado	Vasallo	Cuando ataca, tambien deben hacerlo todos los aliados habilitados para atacar.
+Prometeo	ElReto	ERT-025-126-Prometeo	1	2	--	Aliado	Vasallo	--
+Talos	ElReto	ERT-026-126-Talos	2	3	--	Aliado	Vasallo	--
+Mara	ElReto	ERT-027-126-Mara	1	1	--	Aliado	Vasallo	Si es destruido, devuelvelo a tu mano.
+Caleuche	ElReto	ERT-028-126-Caleuche	--	3	--	Talisman	Cortesano	Las cartas del oponente no pueden bloquear en este turno.
+Tagaro y Suque	ElReto	ERT-029-126-TagaroySuque	1	3	--	Aliado	Vasallo	--
+Los Titanes	ElReto	ERT-030-126-LosTitanes	5	8	--	Aliado	Vasallo	--
+Huitzilopochtli	ElReto	ERT-031-126-Huitzilopochtli	--	1	--	Talisman	Cortesano	Un aliado gana +3 a la fuerza hasta el final del turno.
+Gargola	ElReto	ERT-032-126-Gargola	1	2	--	Aliado	Vasallo	--
+Joyas de la Corona	ElReto	ERT-033-126-JoyasdelaCorona	--	--	--	Oro	Oro	--
+Unicornio	ElReto	ERT-034-126-Unicornio	1	1	--	Aliado	Cortesano	Al sacrificarlo genera un oro en el turno.
+Pajaro de Trueno	ElReto	ERT-035-126-PajarodeTrueno	1	1	--	Aliado	Vasallo	--
+Perseo	ElReto	ERT-036-126-Perseo	2	4	--	Aliado	Cortesano	Si Perseo esta en juego, Medusas y Sirenas de tu oponente, pierden su habilidad.
+Sirenas	ElReto	ERT-037-126-Sirenas	1	3	--	Aliado	Cortesano	Bota dos cartas de tu castillo, y una carta de tu oponente no puede atacar o bloquear en este turno.
+Satiro	ElReto	ERT-038-126-Satiro	1	2	--	Aliado	Vasallo	--
+Final del Arcoiris	ElReto	ERT-039-126-FinaldelArcoiris	--	--	--	Oro	Oro	--
+Hefesto	ElReto	ERT-040-126-Hefesto	--	3	--	Talisman	Cortesano	Un Aliado en batalla mitologica gana +1 de fuerza permanentemente.
+Sko' Yo	ElReto	ERT-041-126-Sko'Yo	1	3	--	Aliado	Vasallo	--
+Lothar	ElReto	ERT-042-126-Lothar	--	3	--	Talisman	Cortesano	Las cartas de aliados destruidos en este turno vuelven al juego (a la linea de defensa).
+Atlas	ElReto	ERT-043-126-Atlas	2	2	--	Aliado	Vasallo	Atlas solo puede bloquear; para destruirlo es necesario doblar su fuerza.
+Khnum	ElReto	ERT-044-126-Khnum	2	3	--	Aliado	Vasallo	--
+Armadura Dorada	ElReto	ERT-045-126-ArmaduraDorada	--	--	--	Oro	Oro	--
+Cancerbero	ElReto	ERT-046-126-Cancerbero	--	1	--	Talisman	Cortesano	Destruye un aliado en juego y puedes buscar 2 cartas de oro en tu castillo.
+Thor	ElReto	ERT-047-126-Thor	8	8	--	Aliado	Vasallo	--
+Manuk	ElReto	ERT-048-126-Manuk	4	2	--	Aliado	Vasallo	Cada turno pierde un punto de fuerza.
+Kornos	ElReto	ERT-049-126-Kornos	1	3	--	Aliado	Cortesano	Solo puede ser bloqueada por caballeros.
+Rosa de los Vientos	ElReto	ERT-050-126-RosadelosVientos	--	--	--	Oro	Oro	--
+Sisiutil	ElReto	ERT-051-126-Sisiutil	1	3	--	Aliado	Vasallo	--
+Hombre de Piedra	ElReto	ERT-052-126-HombredePiedra	1	3	--	Aliado	Vasallo	--
+Baal	ElReto	ERT-053-126-Baal	--	1	--	Talisman	Vasallo	Baal te permite robar una nueva carta.
+Bunyip	ElReto	ERT-054-126-Bunyip	4	4	--	Aliado	Cortesano	Cuando entra en juego destruye uno de tus aliados.
+Dragon Medieval	ElReto	ERT-055-126-DragonMedieval	6	8	--	Aliado	Real	Este dragon no puede ser bloqueado.
+Gilgamesh	ElReto	ERT-056-126-Gilgamesh	2	3	--	Aliado	Vasallo	--
+Gigante Andino	ElReto	ERT-057-126-GiganteAndino	3	4	--	Aliado	Vasallo	--
+Ninfas	ElReto	ERT-058-126-Ninfas	1	1	--	Aliado	Cortesano	Al jugarla, puedes buscar otra carta de Ninfas en tu castillo y ponerla en tu mano.
+Ave Fenix	ElReto	ERT-059-126-AveFenix	2	3	--	Aliado	Vasallo	--
+Caliz Sagrado	ElReto	ERT-060-126-CalizSagrado	--	--	--	Oro	Oro	--
+Oannes	ElReto	ERT-061-126-Oannes	1	4	--	Aliado	Vasallo	Al jugarlo puedes robar una carta.
+Tentenvilu-Coicoivilu	ElReto	ERT-062-126-Tentenvilu-Coicoivilu	1	1	--	Aliado	Vasallo	--
+Amazonas	ElReto	ERT-063-126-Amazonas	2	2	--	Aliado	Real	Si hay cartas de Amazonas en juego su valor se reduce a "0".
+Hadas	ElReto	ERT-064-126-Hadas	1	2	--	Aliado	Vasallo	--
+Ciclope	ElReto	ERT-065-126-Ciclope	--	3	--	Talisman	Cortesano	Bota al azar dos cartas de la mano de tu oponente.
+Monedas de Oro	ElReto	ERT-066-126-MonedasdeOro	--	--	--	Oro	Oro	--
+Anubis	ElReto	ERT-067-126-Anubis	0	2	--	Aliado	Vasallo	Destruye a Anubis y regresa una carta de tu cementerio a la linea de defensa (carta unica).
+Hombre Lobo	ElReto	ERT-068-126-HombreLobo	1	2	--	Aliado	Vasallo	--
+Fenrir	ElReto	ERT-069-126-Fenrir	4	2	Licantropo	Aliado	Cortesano	Si ataca debe ser acompanado por dos aliados.
+Kali	ElReto	ERT-070-126-Kali	1	3	--	Aliado	Vasallo	--
+Marduk	ElReto	ERT-071-126-Marduk	3	4	--	Aliado	Cortesano	Si hay algun dragon en juego, gana +3 a la fuerza.
+Lilith	ElReto	ERT-072-126-Lilith	2	4	--	Aliado	Vasallo	--
+Diamante Turquesa	ElReto	ERT-073-126-DiamanteTurquesa	--	--	--	Oro	Oro	--
+Viracocha	ElReto	ERT-074-126-Viracocha	--	1	--	Talisman	Cortesano	Al jugarla, una carta oponente no puede atacar o bloquear.
+Osiris	ElReto	ERT-075-126-Osiris	3	5	--	Aliado	Vasallo	--
+Medusa	ElReto	ERT-076-126-Medusa	1	4	--	Aliado	Real	Paga 3 de oro, y una carta oponente no puede atacar en este turno.
+Nibelungos	ElReto	ERT-077-126-Nibelungos	2	4	--	Aliado	Vasallo	--
+Anchimallen	ElReto	ERT-078-126-Anchimallen	--	2	--	Talisman	Cortesano	Envia al cementerio una carta al azar de la mano de tu oponente.
+Estatua de Oro	ElReto	ERT-079-126-EstatuadeOro	--	--	--	Oro	Oro	--
+Ymir	ElReto	ERT-080-126-Ymir	--	3	--	Talisman	Vasallo	Los aliados del oponente no pueden atacar en este turno.
+Hadas Guerreras	ElReto	ERT-081-126-HadasGuerreras	1	1	--	Aliado	Vasallo	--
+Loki	ElReto	ERT-082-126-Loki	--	1	--	Talisman	Vasallo	Puedes ver al azar una carta de tu oponente.
+Icaro	ElReto	ERT-083-126-Icaro	--	0	--	Talisman	Vasallo	Puedes robar una carta de tu castillo.
+Duende	ElReto	ERT-084-126-Duende	1	3	--	Aliado	Vasallo	--
+Xolotl	ElReto	ERT-085-126-Xolotl	--	4	--	Talisman	Cortesano	Destruye todas las cartas oponentes de fuerza superior a 3.
+Barbaro	ElReto	ERT-086-126-Barbaro	3	5	--	Aliado	Vasallo	--
+Vishnu	ElReto	ERT-087-126-Vishnu	--	3	--	Talisman	Vasallo	Destruye un oro de tu oponente.
+Isis	ElReto	ERT-088-126-Isis	1	1	--	Aliado	Vasallo	--
+La Quimera	ElReto	ERT-089-126-LaQuimera	1	1	--	Aliado	Vasallo	Mira las tres cartas superiores de tu castillo y devuelvelas en el mismo orden.
+Gnomo	ElReto	ERT-090-126-Gnomo	1	2	--	Aliado	Vasallo	--
+Pan-Gu	ElReto	ERT-091-126-Pan-Gu	--	3	--	Talisman	Vasallo	Busca una carta "Talisman" en tu cementerio y ponla en tu mano.
+Beowulf	ElReto	ERT-092-126-Beowulf	1	1	--	Aliado	Vasallo	--
+Portal Celestial	ElReto	ERT-093-126-PortalCelestial	--	--	--	Oro	Oro	--
+Aquiles	ElReto	ERT-094-126-Aquiles	--	2	--	Talisman	Vasallo	Un aliado defensor gana +3 a la fuerza hasta el final del turno.
+El Basajaun	ElReto	ERT-095-126-ElBasajaun	2	3	--	Aliado	Cortesano	Si ataca debe ser bloqueado.
+Caballero Blanco	ElReto	ERT-096-126-CaballeroBlanco	1	1	--	Aliado	Vasallo	--
+Invunche	ElReto	ERT-097-126-Invunche	--	2	--	Talisman	Cortesano	Las cartas oponentes pierden un punto de fuerza en este turno.
+Vikingo	ElReto	ERT-098-126-Vikingo	3	3	--	Aliado	Vasallo	--
+Serpiente Emplumada	ElReto	ERT-099-126-SerpienteEmplumada	1	1	--	Aliado	Cortesano	La Serpiente Emplumada no puede ser bloqueada.
+Esfinge	ElReto	ERT-100-126-Esfinge	4	2	--	Aliado	Vasallo	La Esfinge no puede atacar, solo defender.
+Jinas	ElReto	ERT-101-126-Jinas	--	3	--	Talisman	Cortesano	Mira las 6 cartas superiores de tu castillo y ordenalas como quieras.
+Kordrag	ElReto	ERT-102-126-Kordrag	4	4	--	Aliado	Real	Todos tus aliados se consideran caballeros cuando Kordrag esta en juego.
+Arpia	ElReto	ERT-103-126-Arpia	--	2	--	Talisman	Cortesano	Dos cartas oponentes pierden un punto de fuerza por este turno.
+Hydra	ElReto	ERT-104-126-Hydra	2	3	--	Aliado	Vasallo	--
+Kel-Essuf	ElReto	ERT-105-126-Kel-Essuf	2	4	--	Aliado	Vasallo	--
+Hercules	ElReto	ERT-106-126-Hercules	--	5	--	Talisman	Cortesano	Un aliado en batalla gana +1 de fuerza permanentemente.
+Caballero Negro	ElReto	ERT-107-126-CaballeroNegro	2	2	--	Aliado	Real	Al entrar en juego, todos los demas caballeros ganan +1 de fuerza permanentemente.
+Chon-Chon	ElReto	ERT-108-126-Chon-Chon	--	2	--	Talisman	Cortesano	El oponente bota dos cartas de su castillo.
+Vampiro Oriental	ElReto	ERT-109-126-VampiroOriental	--	1	--	Talisman	Vasallo	Roba dos cartas y bota una de tu mano.
+Pincoya	ElReto	ERT-110-126-Pincoya	--	2	--	Talisman	Cortesano	Un aliado en juego gana +1 de fuerza permanentemente.
+Minas del Rey Salomon	ElReto	ERT-111-126-MinasdelReySalomon	--	--	--	Oro	Oro	--
+Bruja Carabusse	ElReto	ERT-112-126-BrujaCarabusse	--	1	--	Talisman	Cortesano	Una carta oponente no puede bloquear en este turno.
+Haiwatha	ElReto	ERT-113-126-Haiwatha	--	2	--	Talisman	Vasallo	Devuelve una carta del cementerio a tu mano.
+Zeus	ElReto	ERT-114-126-Zeus	--	3	--	Talisman	Real	Zeus te permite robar 6 cartas de tu mazo castillo.
+Poseidon	ElReto	ERT-115-126-Poseidon	--	2	--	Talisman	Vasallo	Mira la carta superior del mazo de tu oponente.
+Minotauro	ElReto	ERT-116-126-Minotauro	2	3	--	Aliado	Vasallo	--
+Cizin	ElReto	ERT-117-126-Cizin	0	5	--	Aliado	Real	Tiene fuerza igual al número de cartas "oro" que tengas en juego.
+Merlin	ElReto	ERT-118-126-Merlin	--	4	--	Talisman	Real	Busca una carta de Caballero en tu castillo y ponla en juego.
+Melusina	ElReto	ERT-119-126-Melusina	2	4	--	Aliado	Vasallo	--
+Berserker	ElReto	ERT-120-126-Berserker	2	3	--	Aliado	Vasallo	Berserker no puede ser bloqueado.
+Hades	ElReto	ERT-121-126-Hades	--	2	--	Talisman	Cortesano	Elige una carta de aliado en juego y cambiala por una de tu oponente (solo por el juego).
+Cuerno de la Abundancia	ElReto	ERT-122-126-CuernodelaAbundancia	--	--	--	Oro	Oro	--
+Brujo Chilote	ElReto	ERT-123-126-BrujoChilote	1	3	--	Aliado	Vasallo	--
+Zusano	ElReto	ERT-124-126-Zusano	2	5	--	Aliado	Vasallo	--
+Eshu	ElReto	ERT-125-126-Eshu	1	2	--	Aliado	Vasallo	--
+El Alicanto	ElReto	ERT-126-126-ElAlicanto	1	3	--	Aliado	Vasallo	--
+Mithra	ElRetoX	ERX-127-174-Mithra	3	0	--	Aliado	Cortesano	Para entrar en juego destruye dos de tus oros en mesa.
+Shiva	ElRetoX	ERX-128-174-Shiva	1	2	--	Aliado	Vasallo	--
+Maui	ElRetoX	ERX-129-174-Maui	4	6	--	Aliado	Vasallo	--
+Hermes	ElRetoX	ERX-130-174-Hermes	2	3	--	Aliado	Cortesano	Si tu oponente bloquea, tu eliges quien bloquea a Hermes.
+Indra	ElRetoX	ERX-131-174-Indra	--	2	--	Talisman	Vasallo	Mira la mano de tu oponente, puedes descartarle una carta de oro.
+Isthar	ElRetoX	ERX-132-174-Isthar	3	3	--	Aliado	Cortesano	Despues de atacar, si no es destruido, es devuelto a la mano.
+Izanamie Izanagi	ElRetoX	ERX-133-174-IzanamieIzanagi	--	3	--	Talisman	Vasallo	Puedes buscar una carta de Dragon en tu castillo y ponerla en tu mano.
+Apolo	ElRetoX	ERX-134-174-Apolo	--	2	--	Talisman	Cortesano	Una carta en juego pierde todas sus habilidades por este turno.
+Tlaloc	ElRetoX	ERX-135-174-Tlaloc	3	4	--	Aliado	Vasallo	--
+Krishna	ElRetoX	ERX-136-174-Krishna	3	2	--	Aliado	Cortesano	Al entrar en juego, descartas la carta superior de tu castillo.
+Odiseo	ElRetoX	ERX-137-174-Odiseo	1	2	--	Aliado	Real	Al jugarlo, gana +1 a la fuerza: si tienes dos o mas Odiseo en juego, son imbloqueables.
+Kasewats	ElRetoX	ERX-138-174-Kasewats	2	2	--	Aliado	Vasallo	Debe atacar todos los turnos.
+Sir Galahad	ElRetoX	ERX-139-174-SirGalahad	2	3	--	Aliado	Vasallo	Si se considera caballero gana +1 a la fuerza.
+Caballo de Troya	ElRetoX	ERX-140-174-CaballodeTroya	--	4	--	Talisman	Cortesano	Nombra una carta de tu oponente en linea de defensa o ataque; este no puede jugar mas copias de esa carta.
+Sigurd	ElRetoX	ERX-141-174-Sigurd	1	2	--	Aliado	Real	Si es destruido por una carta oponente, esta es tambien destruida.
+Rey Midas	ElRetoX	ERX-142-174-ReyMidas	3	4	--	Aliado	Cortesano	Cuando entra en juego, ganas uno de oro por el turno.
+Orejona	ElRetoX	ERX-143-174-Orejona	--	4	--	Talisman	Cortesano	Los oros de tu oponente no pueden ser reagrupados el siguiente turno.
+Mimi	ElRetoX	ERX-144-174-Mimi	1	2	--	Aliado	Vasallo	--
+Yggdrasil	ElRetoX	ERX-145-174-Yggdrasil	--	5	--	Talisman	Cortesano	Elige las cinco cartas superiores de tu cementerio y barajalas con tu castillo.
+Quetzalcoatl	ElRetoX	ERX-146-174-Quetzalcoatl	--	1	--	Talisman	Vasallo	Una carta imbloqueable puede ser bloqueada en este turno.
+Dragon Oriental	ElRetoX	ERX-147-174-DragonOriental	6	6	--	Aliado	Real	Puede bloquear cartas imbloqueables.
+Humbaba	ElRetoX	ERX-148-174-Humbaba	2	3	--	Aliado	Cortesano	Si es destruido, devuelve una carta de oro de tu oponente a su mano.
+Kelpie	ElRetoX	ERX-149-174-Kelpie	--	1	--	Talisman	Vasallo	Un vampiro gana +3 por este turno.
+Haiit	ElRetoX	ERX-150-174-Haiit	--	1	--	Talisman	Vasallo	Otorga dos oros por el turno.
+Kraken	ElRetoX	ERX-151-174-Kraken	4	5	--	Aliado	Vasallo	Si ataca, gana +1 a la fuerza por el turno.
+Matador de Dragones	ElRetoX	ERX-152-174-MatadordeDragones	--	2	--	Talisman	Cortesano	Puedes buscar un dragon en el castillo de tu oponente y descartarlo al cementerio.
+Hombre Pajaro	ElRetoX	ERX-153-174-HombrePajaro	1	3	--	Aliado	Vasallo	Cuando entra en juego, cada jugador muestra su mano y descarta un talisman si tiene alguno.
+Rey Arturo	ElRetoX	ERX-154-174-ReyArturo	4	4	--	Aliado	Real	Cuando ataca, todos los caballeros que lo acompanen ganan +1 de fuerza por el turno.
+Hunahpu y Xbalanque	ElRetoX	ERX-155-174-HunahpuyXbalanque	1	2	--	Aliado	Vasallo	--
+Guillermo Tell	ElRetoX	ERX-156-174-GuillermoTell	--	2	--	Talisman	Vasallo	Nombra una carta por su nombre especifico. Tu oponente muestra la mano si la tiene, descartale esa carta.
+Balder	ElRetoX	ERX-157-174-Balder	2	4	--	Aliado	Vasallo	Si es destruido, devuelvelo a tu mano.
+Sir Gawain	ElRetoX	ERX-158-174-SirGawain	3	4	--	Aliado	Vasallo	--
+Hada Viviana	ElRetoX	ERX-159-174-HadaViviana	--	3	--	Talisman	Vasallo	Tu oponente no roba en el proximo turno.
+Sedna	ElRetoX	ERX-160-174-Sedna	2	3	--	Aliado	Vasallo	--
+Caja de Pandora	ElRetoX	ERX-161-174-CajadePandora	--	3	--	Talisman	Real	Cada jugador muestra la carta superior de su castillo. Si es un aliado, es puesto en juego, si no, la carta es descartada.
+Walkirias	ElRetoX	ERX-162-174-Walkirias	--	0	--	Talisman	Real	Puedes jugarla en cualquier momento del juego. Anula una carta jugada por tu oponente enviandola al cementerio (Carta unica).
+Afrodita	ElRetoX	ERX-163-174-Afrodita	--	2	--	Talisman	Vasallo	Mira las tres cartas superiores del castillo oponente y ordenalas como quieras.
+Fu Hi	ElRetoX	ERX-164-174-FuHi	--	1	--	Talisman	Vasallo	Una carta atacante no hace dano en este turno.
+Millalobo	ElRetoX	ERX-165-174-Millalobo	1	2	--	Aliado	Vasallo	--
+Nugua	ElRetoX	ERX-166-174-Nugua	1	2	--	Aliado	Vasallo	--
+Cernunno	ElRetoX	ERX-167-174-Cernunno	1	1	--	Aliado	Vasallo	--
+Horus	ElRetoX	ERX-168-174-Horus	--	3	--	Talisman	Vasallo	Elige un aliado en juego de tu oponente y este lo debe barajar en su castillo.
+Dagon	ElRetoX	ERX-169-174-Dagon	3	2	--	Aliado	Cortesano	Cuando entra en juego, debes mostrar tu mano a tu oponente.
+Conejo Escriba	ElRetoX	ERX-170-174-ConejoEscriba	--	6	--	Talisman	Vasallo	Por el resto del juego, tu oponente juega con la mano descubierta.
+Goblins	ElRetoX	ERX-171-174-Goblins	1	2	--	Aliado	Vasallo	Si un aliado oponente lo bloquea, este pierde 1 de fuerza por el turno.
+Wondjinas	ElRetoX	ERX-172-174-Wondjinas	--	3	--	Talisman	Vasallo	Por este turno todas las cartas en juego cambian su fuerza por valor en oro.
+Pixies	ElRetoX	ERX-173-174-Pixies	--	3	--	Talisman	Vasallo	Por este turno tu oponente no puede utilizar su oro.
+Narciso	ElRetoX	ERX-174-174-Narciso	3	2	--	Aliado	Vasallo	Solo puede atacar si tu oponente tiene menos cartas en su mano que tu.
+Pozo del Juramento	MundoGotico	MGO-001-126-PozodelJuramento	--	4	--	Talisman	Cortesano	Destruye un aliado oponente que este atacando.
+Hombre de Poca Fe	MundoGotico	MGO-002-126-HombredePocaFe	--	3	--	Talisman	Cortesano	Destruye un aliado defensor de tu oponente a tu eleccion.
+Dominacion	MundoGotico	MGO-003-126-Dominacion	--	3	--	Talisman	Cortesano	Un aliado oponente que elijas no puede atacar el proximo turno.
+Cremacion	MundoGotico	MGO-004-126-Cremacion	--	4	--	Talisman	Real	Destruye todos los vampiros en juego.
+Vigilia de Armas	MundoGotico	MGO-005-126-VigiliadeArmas	--	2	--	Talisman	Cortesano	Al jugarla no se pueden jugar nuevos talismanes o habilidades de carta en el turno.
+Prueba de Fuego	MundoGotico	MGO-006-126-PruebadeFuego	--	2	--	Talisman	Cortesano	Destruye un vampiro en juego.
+Marcas de Guerra	MundoGotico	MGO-007-126-MarcasdeGuerra	--	2	--	Talisman	Vasallo	Todos los jugadores descartan una carta de su mano al azar.
+Lucha de Golems	MundoGotico	MGO-008-126-LuchadeGolems	--	1	--	Talisman	Cortesano	Durante el resto del juego, los contendores no pueden jugar con el cementerio.
+Licantropia	MundoGotico	MGO-009-126-Licantropia	--	2	--	Talisman	Cortesano	Un aliado en juego que elijas cambia su fuerza por su valor permanentemente.
+Ofuscacion	MundoGotico	MGO-010-126-Ofuscacion	--	3	--	Talisman	Vasallo	Todos los aliados oponentes deben atacar el proximo turno.
+Arlequin	MundoGotico	MGO-011-126-Arlequin	--	3	--	Talisman	Real	Tu oponente descarta igual numero de cartas al dano recibido en tu castillo (carta unica).
+Oraculo Zingaro	MundoGotico	MGO-012-126-OraculoZingaro	--	1	--	Talisman	Real	Todas tus cartas de oro generan el doble de oro por un turno (carta unica).
+Mordida	MundoGotico	MGO-013-126-Mordida	--	1	--	Talisman	Vasallo	Un vampiro oponente no hace dano al atacar en este turno.
+Luna Llena	MundoGotico	MGO-014-126-LunaLlena	--	3	--	Talisman	Cortesano	Los Licantropos ganan +1 de fuerza por este turno.
+Custodio	MundoGotico	MGO-015-126-Custodio	--	2	--	Talisman	Vasallo	Los vampiros no hacen dano en este turno.
+Estigma	MundoGotico	MGO-016-126-Estigma	--	2	--	Talisman	Cortesano	Un aliado oponente vuelve a la linea de defensa.
+Stribog	MundoGotico	MGO-017-126-Stribog	--	5	--	Talisman	Real	Son destruidos todos los aliados en juego de los jugadores que participan.
+Daimon	MundoGotico	MGO-018-126-Daimon	--	3	--	Talisman	Vasallo	Un aliado duplica su fuerza y al final del turno debe ser destruido.
+Mascara de Jade	MundoGotico	MGO-019-126-MascaradeJade	--	3	--	Talisman	Real	Tu oponente descarta 3 cartas de su castillo.
+Mascara de Oro	MundoGotico	MGO-020-126-MascaradeOro	--	3	--	Talisman	Cortesano	Despues de atacar, tus aliados vuelven a la linea de defensa.
+Eclipse de Dragon	MundoGotico	MGO-021-126-EclipsedeDragon	--	3	--	Talisman	Cortesano	Tu oponente no puede jugar con su cementerio el resto del juego.
+Dama de Hierro	MundoGotico	MGO-022-126-DamadeHierro	--	6	--	Talisman	Vasallo	Destruye dos cartas de Oro de tu oponente.
+Justos por Pecadores	MundoGotico	MGO-023-126-JustosporPecadores	--	4	--	Talisman	Cortesano	Destruye un aliado en juego y no puedes ser atacado el proximo turno.
+Incubo	MundoGotico	MGO-024-126-Incubo	--	2	--	Talisman	Vasallo	Destruye una carta de oro que controles y roba una carta de tu mazo.
+Amanecer	MundoGotico	MGO-025-126-Amanecer	--	5	--	Talisman	Real	Baraja tu mano con tu mazo y roba la misma cantidad de cartas que tenias en la mano.
+Presencia Maligna	MundoGotico	MGO-026-126-PresenciaMaligna	--	4	--	Talisman	Cortesano	Mira la mano de tu oponente y este se descarta de todos los talismanes que tenga.
+Tragedia	MundoGotico	MGO-027-126-Tragedia	--	0	--	Talisman	Vasallo	Descarta una carta de tu mano y mira la mano de tu oponente.
+Tumba del Caballero	MundoGotico	MGO-028-126-TumbadelCaballero	--	4	--	Talisman	Real	Al final de tu turno puedes robar mas de una carta: si lo haces, te descartas de tantas cartas como hubieses robado de mas.
+Rappagan-Mekabk	MundoGotico	MGO-029-126-Rappagan-Mekabk	--	5	--	Talisman	Real	Busca una carta de aliado en el mazo de tu oponente y ponla bajo tu control solo por el juego.
+Juego Eterno	MundoGotico	MGO-030-126-JuegoEterno	--	2	--	Talisman	Vasallo	Destruye un arma o totem en juego.
+Yelmo	MundoGotico	MGO-031-126-Yelmo	--	2	--	Arma	Cortesano	Su portador se considera imbloqueable.
+Escudo Hiperboreo	MundoGotico	MGO-032-126-EscudoHiperboreo	--	2	--	Arma	Cortesano	Su portador, si no es destruido despues de atacar, vuelve a la linea de defensa.
+Guadana	MundoGotico	MGO-033-126-Guadana	--	2	--	Arma	Vasallo	Su portador gana +3 a la fuerza. Si ataca es destruido al final del turno.
+Hacha de Enoch	MundoGotico	MGO-034-126-HachadeEnoch	--	2	--	Arma	Vasallo	Si su portador es destruido, es barajado en su mazo y el arma destruida.
+Guantelete	MundoGotico	MGO-035-126-Guantelete	--	2	--	Arma	Cortesano	El portador intercambia fuerza por su coste de Oro.
+Ballesta	MundoGotico	MGO-036-126-Ballesta	--	2	--	Arma	Vasallo	Su portador no puede atacar o bloquear.
+Espada Envenenada	MundoGotico	MGO-037-126-EspadaEnvenenada	--	2	--	Arma	Vasallo	Si el portador ataca es destruido al final del turno.
+Anima Negra	MundoGotico	MGO-038-126-AnimaNegra	--	2	--	Arma	Vasallo	Su portador gana +1 de fuerza por cada carta en la mano de tu oponente.
+Dagas Krish	MundoGotico	MGO-039-126-DagasKrish	--	2	--	Arma	Vasallo	Su portador se considera un vampiro.
+Martillo y Estacas	MundoGotico	MGO-040-126-MartilloyEstacas	--	2	--	Arma	Vasallo	Su portador no puede ser bloqueado por vampiros.
+Totem de la Fecundidad	MundoGotico	MGO-041-126-TotemdelaFecundidad	--	2	--	Totem	Cortesano	Cada jugador roba una carta extra en su turno.
+Totem del Vacio	MundoGotico	MGO-042-126-TotemdelVacio	--	3	--	Totem	Cortesano	Los jugadores solo pueden jugar un talisman cada turno.
+Totem de Sangre	MundoGotico	MGO-043-126-TotemdeSangre	--	3	--	Totem	Vasallo	Paga un oro y un vampiro de tu oponente no puede atacar en su turno.
+Totem de la Iluminacion	MundoGotico	MGO-044-126-TotemdelaIluminacion	--	4	--	Totem	Vasallo	Paga dos oros y destruye un totem oponente (una vez por turno).
+Totem del Genesis	MundoGotico	MGO-045-126-TotemdelGenesis	--	4	--	Totem	Vasallo	Paga 3 oros y tu oponente devuelve una carta que tenga en juego que tu elijas a su mano (una vez por turno).
+Totem del Olvido	MundoGotico	MGO-046-126-TotemdelOlvido	--	3	--	Totem	Cortesano	Descarta una carta de tu mano y genera dos Oro (una vez por turno).
+Totem de la Desesperanza	MundoGotico	MGO-047-126-TotemdelaDesesperanza	--	1	--	Totem	Cortesano	Paga 3 de Oro y tu oponente se descarta de una carta de su mano (una vez por turno).
+Totem Ultimo	MundoGotico	MGO-048-126-TotemUltimo	--	3	--	Totem	Vasallo	Paga un oro y anula la habilidad de todas las armas en juego (una vez por turno).
+Totem de Fuego	MundoGotico	MGO-049-126-TotemdeFuego	--	3	--	Totem	Vasallo	Paga un oro y destruye un arma oponente (una vez por turno).
+Totem de Vitalidad	MundoGotico	MGO-050-126-TotemdeVitalidad	--	2	--	Totem	Vasallo	Tus aliados ganan +1 de fuerza cuando defienden.
+Knochen	MundoGotico	MGO-051-126-Knochen	5	5	--	Aliado	Real	Puede bloquear a mas de un aliado oponente hasta acabar su fuerza.
+Dragon de Sombra	MundoGotico	MGO-052-126-DragondeSombra	2	3	--	Aliado	Vasallo	Si ataca y hace dano a un castillo, destruye un Totem a eleccion.
+Magnus	MundoGotico	MGO-053-126-Magnus	1	1	--	Aliado	Vasallo	--
+Lupo	MundoGotico	MGO-054-126-Lupo	1	2	Licantropo	Aliado	Vasallo	--
+Licantropo	MundoGotico	MGO-055-126-Licantropo	2	3	Licantropo	Aliado	Vasallo	--
+Jauria	MundoGotico	MGO-056-126-Jauria	3	4	Licantropo	Aliado	Cortesano	Cuando entra en juego puedes buscar una carta de licantropo en tu mazo y ponerla en tu mano.
+Guevadan	MundoGotico	MGO-057-126-Guevadan	3	5	Licantropo	Aliado	Cortesano	Destruye un licantropo que controles y gana +1 de fuerza.
+Golem	MundoGotico	MGO-058-126-Golem	1	2	--	Aliado	Vasallo	--
+Golem Sombrio	MundoGotico	MGO-059-126-GolemSombrio	3	4	--	Aliado	Vasallo	--
+Espectro	MundoGotico	MGO-060-126-Espectro	2	3	--	Aliado	Vasallo	Cuando entra en juego, puedes ver la siguiente carta de algun mazo.
+Zombies	MundoGotico	MGO-061-126-Zombies	1	3	--	Aliado	Vasallo	--
+Hechicera	MundoGotico	MGO-062-126-Hechicera	1	3	--	Aliado	Vasallo	--
+Campesina	MundoGotico	MGO-063-126-Campesina	1	2	--	Aliado	Vasallo	--
+Pastor	MundoGotico	MGO-064-126-Pastor	2	3	--	Aliado	Vasallo	--
+Draco	MundoGotico	MGO-065-126-Draco	1	2	--	Aliado	Vasallo	--
+Salamandra	MundoGotico	MGO-066-126-Salamandra	2	2	--	Aliado	Vasallo	--
+Triton	MundoGotico	MGO-067-126-Triton	1	2	--	Aliado	Vasallo	--
+Bestia	MundoGotico	MGO-068-126-Bestia	1	2	--	Aliado	Vasallo	--
+Abominacion	MundoGotico	MGO-069-126-Abominacion	2	4	--	Aliado	Vasallo	--
+Igor	MundoGotico	MGO-070-126-Igor	2	3	--	Aliado	Vasallo	--
+Kain	MundoGotico	MGO-071-126-Kain	4	4	Vampiro	Aliado	Real	Todos los vampiros que controles ganan +1 de fuerza cuando ataquen.
+Kasim	MundoGotico	MGO-072-126-Kasim	1	2	Vampiro	Aliado	Cortesano	Puede atacar el turno en que es puesto en juego.
+Conde Shatten	MundoGotico	MGO-073-126-CondeShatten	2	3	Vampiro	Aliado	Cortesano	Paga uno de Oro y un aliado oponente a tu eleccion, debe atacar el proximo turno.
+Ekimmu	MundoGotico	MGO-074-126-Ekimmu	3	3	Vampiro	Aliado	Vasallo	Si algun turno ataca o bloquea, destruyelo al final de ese turno.
+Strix	MundoGotico	MGO-075-126-Strix	2	2	Vampiro	Aliado	Vasallo	Si ataca, debe ser acompanado por un aliado
+Hiedra Espino	MundoGotico	MGO-076-126-HiedraEspino	1	3	Vampiro	Aliado	Cortesano	Si es destruido en combate, el oponente se descarta de una carta de su mano.
+Ryurik	MundoGotico	MGO-077-126-Ryurik	1	4	Vampiro	Aliado	Real	Gana +1 de fuerza por cada caballero en juego. No puede ser bloqueado por caballeros.
+Falsa Cautiva	MundoGotico	MGO-078-126-FalsaCautiva	2	0	Vampiro	Aliado	Vasallo	Al entrar en juego, destruye una de tus cartas Oro.
+Fetiche	MundoGotico	MGO-079-126-Fetiche	0	5	Vampiro	Aliado	Real	Tiene fuerza igual al numero de cartas de oro de tu oponente.
+Khan	MundoGotico	MGO-080-126-Khan	1	2	Vampiro	Aliado	Real	Si ataca y hace dano al castillo de tu oponente, puedes buscar una carta de vampiro y ponerla en tu mano.
+Lesther	MundoGotico	MGO-081-126-Lesther	2	0	Vampiro	Aliado	Vasallo	Para entrar en juego, descarta 2 cartas de tu mano.
+Rasputin	MundoGotico	MGO-082-126-Rasputin	1	2	Vampiro	Aliado	Cortesano	Al atacar, destruye una carta de Oro que controles y gana +1 de fuerza por el turno.
+Nosferatu	MundoGotico	MGO-083-126-Nosferatu	1	3	Vampiro	Aliado	Vasallo	Si hace dano al castillo del oponente, este destruye un aliado en juego.
+Moiras	MundoGotico	MGO-084-126-Moiras	3	4	Vampiro	Aliado	Vasallo	No puede ser bloqueado por caballeros.
+Issler	MundoGotico	MGO-085-126-Issler	0	4	Vampiro	Aliado	Vasallo	Tiene fuerza igual al numero de cartas en la mano de tu oponente.
+Xamedhi	MundoGotico	MGO-086-126-Xamedhi	5	4	Vampiro	Aliado	Vasallo	Si ataca, el proximo turno no puede volver a la linea de defensa.
+Natasha	MundoGotico	MGO-087-126-Natasha	1	1	Vampiro	Aliado	Vasallo	--
+Enjambre	MundoGotico	MGO-088-126-Enjambre	1	2	Vampiro	Aliado	Vasallo	--
+Mesalina	MundoGotico	MGO-089-126-Mesalina	2	3	Vampiro	Aliado	Vasallo	--
+Lucy	MundoGotico	MGO-090-126-Lucy	1	2	Vampiro	Aliado	Vasallo	--
+Monje de Kri-Ling	MundoGotico	MGO-091-126-MonjedeKri-Ling	1	5	Cazador	Aliado	Real	Por cada cazador de vampiros en juego gana +1 de fuerza.
+Casandra	MundoGotico	MGO-092-126-Casandra	1	1	Cazador	Aliado	Vasallo	--
+Roy	MundoGotico	MGO-093-126-Roy	2	3	Cazador	Aliado	Cortesano	El vampiro que lo bloquea pierde uno de fuerza por el turno.
+Silver	MundoGotico	MGO-094-126-Silver	3	1	Cazador	Aliado	Cortesano	Solo puede bloquear.
+Krana	MundoGotico	MGO-095-126-Krana	2	3	Cazador	Aliado	Cortesano	Cuando entre en juego tu oponente descarta una carta de su castillo.
+Corazon de Leon	MundoGotico	MGO-096-126-CorazondeLeon	2	2	Cazador	Aliado	Cortesano	Cuando ataca este aliado gana +1 a la fuerza.
+Tribunal	MundoGotico	MGO-097-126-Tribunal	2	3	Cazador	Aliado	Vasallo	Si ataca y no es bloqueado, gana +1 de fuerza por el turno.
+Scarlet	MundoGotico	MGO-098-126-Scarlet	2	4	Cazador	Aliado	Vasallo	Cuando bloquea, duplica su fuerza.
+Puritano	MundoGotico	MGO-099-126-Puritano	2	3	Cazador	Aliado	Cortesano	Cuando entra en juego puedes ver la mano de tu oponente.
+Selena	MundoGotico	MGO-100-126-Selena	3	3	Cazador	Aliado	Cortesano	Puede bloquear a mas de un aliado oponente hasta agotar su fuerza.
+Armstrong	MundoGotico	MGO-101-126-Armstrong	2	3	Cazador	Aliado	Vasallo	--
+Niamh	MundoGotico	MGO-102-126-Niamh	1	2	Cazador	Aliado	Vasallo	--
+Daphne y Gregor	MundoGotico	MGO-103-126-DaphneyGregor	2	3	Cazador	Aliado	Vasallo	--
+Exorcista	MundoGotico	MGO-104-126-Exorcista	1	2	Cazador	Aliado	Vasallo	--
+Rugdraige	MundoGotico	MGO-105-126-Rugdraige	2	3	Cazador	Aliado	Vasallo	--
+Zara	MundoGotico	MGO-106-126-Zara	1	2	Cazador	Aliado	Vasallo	--
+Kemsa	MundoGotico	MGO-107-126-Kemsa	1	2	Cazador	Aliado	Vasallo	--
+Karl	MundoGotico	MGO-108-126-Karl	2	3	Cazador	Aliado	Vasallo	Cuando bloquea, cambia su fuerza por su coste.
+Linna	MundoGotico	MGO-109-126-Linna	2	1	Cazador	Aliado	Vasallo	--
+Emboscada	MundoGotico	MGO-110-126-Emboscada	2	3	Cazador	Aliado	Vasallo	Si ataca y no es bloqueado destruye un Oro de tu oponente.
+Bafometh	MundoGotico	MGO-111-126-Bafometh	--	--	--	Oro	Oro	--
+Codice	MundoGotico	MGO-112-126-Codice	--	--	--	Oro	Oro	--
+Sortija	MundoGotico	MGO-113-126-Sortija	--	--	--	Oro	Oro	--
+Rosal Silvestre	MundoGotico	MGO-114-126-RosalSilvestre	--	--	--	Oro	Oro	--
+Castillo Sombrio	MundoGotico	MGO-115-126-CastilloSombrio	--	--	--	Oro	Oro	--
+Cripta	MundoGotico	MGO-116-126-Cripta	--	--	--	Oro	Oro	--
+Agua Sagrada	MundoGotico	MGO-117-126-AguaSagrada	--	--	--	Oro	Oro	--
+Raza Nocturna	MundoGotico	MGO-118-126-RazaNocturna	--	--	--	Oro	Oro	--
+Corona Imperial	MundoGotico	MGO-119-126-CoronaImperial	--	--	--	Oro	Oro	--
+Baculo	MundoGotico	MGO-120-126-Baculo	--	--	--	Oro	Oro	--
+Dragon de Rubi	MundoGotico	MGO-121-126-DragondeRubi	--	--	--	Oro	Oro	--
+Catedral	MundoGotico	MGO-122-126-Catedral	--	--	--	Oro	Oro	--
+Candelabro	MundoGotico	MGO-123-126-Candelabro	--	--	--	Oro	Oro	--
+Escudo de Cazador	MundoGotico	MGO-124-126-EscudodeCazador	--	--	--	Oro	Oro	--
+Escudo de Vampiro	MundoGotico	MGO-125-126-EscudodeVampiro	--	--	--	Oro	Oro	--
+Campanas del Alba	MundoGotico	MGO-126-126-CampanasdelAlba	--	--	--	Oro	Oro	--
+Totem de la Penumbra	MundoGoticoX	MGX-127-174-TotemdelaPenumbra	--	2	--	Totem	Vasallo	Jugar un arma cuesta 1 oro mas mientras este totem este en juego.
+Totem de Magma	MundoGoticoX	MGX-128-174-TotemdeMagma	--	2	--	Totem	Real	Todos los vampiros en juego ganan +1 de fuerza, mientras este totem este en juego.
+Totem Lunar	MundoGoticoX	MGX-129-174-TotemLunar	--	2	--	Totem	Real	Todos los licantropos en juego ganan +1 de fuerza, mientras este totem este en juego.
+Totem del Bosque	MundoGoticoX	MGX-130-174-TotemdelBosque	--	2	--	Totem	Cortesano	Jugar cartas de licantropo cuesta un oro menos, mientras este totem este en juego.
+Totem Bienaventurado	MundoGoticoX	MGX-131-174-TotemBienaventurado	--	2	--	Totem	Real	A partir del proximo turno puedes bajar un oro extra de tu mano, mientras este totem este en juego.
+Totem Magnetico	MundoGoticoX	MGX-132-174-TotemMagnetico	--	3	--	Totem	Cortesano	Todos los aliados que lleven armas no pueden bloquear mientras este totem este en juego.
+Totem del Viento	MundoGoticoX	MGX-133-174-TotemdelViento	--	3	--	Totem	Vasallo	Elige un aliado, el y sus copias ganan +1 a la fuerza mientras este totem este en juego.
+Totem de Salamandras	MundoGoticoX	MGX-134-174-TotemdeSalamandras	--	4	--	Totem	Cortesano	Antes de atacar, tu oponente debe destruir un aliado que controle mientras este totem este en juego.
+Totem de Hierro	MundoGoticoX	MGX-135-174-TotemdeHierro	--	3	--	Totem	Vasallo	Los aliados que lleven armas no pueden atacar mientras este totem este en juego.
+Totem Runico	MundoGoticoX	MGX-136-174-TotemRunico	--	3	--	Totem	Vasallo	Tu oponente juega con su mano descubierta mientras este totem este en juego.
+Evocacion	MundoGoticoX	MGX-137-174-Evocacion	--	4	--	Talisman	Vasallo	Puedes buscar un aliado en tu castillo y ponerlo en tu linea de defensa. Al final del turno este es destruido.
+Espectro de Dragon	MundoGoticoX	MGX-138-174-EspectrodeDragon	--	1	--	Talisman	Real	Descarta 3 cartas de la parte superior del castillo de tu oponente.
+Ataque Suicida	MundoGoticoX	MGX-139-174-AtaqueSuicida	--	0	--	Talisman	Real	Despues de atacar ganas otro turno extra. Si no ganas en ese turno, pierdes el juego (carta unica).
+Arbol de Justicia	MundoGoticoX	MGX-140-174-ArboldeJusticia	--	4	--	Talisman	Vasallo	Tu oponente descarta de su castillo tantas cartas como tenga en su mano.
+Dycom el Recaudador	MundoGoticoX	MGX-141-174-DycomelRecaudador	--	0	--	Talisman	Vasallo	Puedes buscar un oro en tu castillo y ponerlo en tu mano.
+Lider de la Jauria	MundoGoticoX	MGX-142-174-LiderdelaJauria	--	3	--	Talisman	Vasallo	Un licantropo gana fuerza igual a su valor solo por el turno.
+Piromania	MundoGoticoX	MGX-143-174-Piromania	--	3	--	Talisman	Cortesano	Puedes buscar un talisman en el castillo de tu oponente y botarlo al cementerio junto con todas las copias de esta.
+Ermitano	MundoGoticoX	MGX-144-174-Ermitano	--	3	--	Talisman	Cortesano	Solo una vez por juego: nombra un talisman, tu oponente no podra utilizarlo por esta partida.
+Fragua	MundoGoticoX	MGX-145-174-Fragua	--	1	--	Talisman	Vasallo	Genera 3 oros virtuales para jugar armas solamente por el turno.
+Mecenas	MundoGoticoX	MGX-146-174-Mecenas	--	1	--	Talisman	Cortesano	Solo por este turno genera 2 oros virtuales para poner en juego vampiros.
+Trofeo de Guerra	MundoGoticoX	MGX-147-174-TrofeodeGuerra	--	1	--	Talisman	Cortesano	Solo por este turno genera 2 oros virtuales para poner en juego licantropos.
+Alas Negras	MundoGoticoX	MGX-148-174-AlasNegras	2	3	Vampiro	Aliado	Vasallo	No puede ser bloqueado. Si no tienes otros vampiros en juego, destruyelo al final del turno.
+Salome	MundoGoticoX	MGX-149-174-Salome	3	3	Vampiro	Aliado	Vasallo	Cuando entra en juego destruye un oro de tu oponente.
+Dux	MundoGoticoX	MGX-150-174-Dux	2	2	Vampiro	Aliado	Vasallo	No puede ser bloqueado por caballeros.
+Vampiro del Desierto	MundoGoticoX	MGX-151-174-VampirodelDesierto	3	2	Vampiro	Aliado	Vasallo	Debe atacar cuando es puesto en juego.
+Bestia Acechando	MundoGoticoX	MGX-152-174-BestiaAcechando	2	3	Vampiro	Aliado	Vasallo	Si ataca debe ser bloqueado.
+Judy	MundoGoticoX	MGX-153-174-Judy	2	1	Vampiro	Aliado	Vasallo	--
+Itazzy	MundoGoticoX	MGX-154-174-Itazzy	0	2	Vampiro	Aliado	Cortesano	Gana +1 de fuerza por cada vampiro en juego.
+Jinete de Dragon	MundoGoticoX	MGX-155-174-JinetedeDragon	5	5	Vampiro	Aliado	Vasallo	Puede llevar dor armas.
+Rafaceny	MundoGoticoX	MGX-156-174-Rafaceny	--	3	--	Talisman	Vasallo	El total de puntos de ataque de tu oponente se reduce a 4 y no pueden ser bloqueados.
+Virna	MundoGoticoX	MGX-157-174-Virna	2	2	Vampiro	Aliado	Vasallo	--
+Dinella	MundoGoticoX	MGX-158-174-Dinella	1	1	Vampiro	Aliado	Vasallo	--
+Mortus	MundoGoticoX	MGX-159-174-Mortus	1	3	Vampiro	Aliado	Cortesano	Cuando entra en juego puedes buscar 2 oros en tu cementerio y ponerlos en tu mano.
+Alimana	MundoGoticoX	MGX-160-174-Alimana	1	1	Vampiro	Aliado	Vasallo	--
+Von Krieg	MundoGoticoX	MGX-161-174-VonKrieg	1	2	Vampiro	Aliado	Vasallo	Puede atacar cuando entra en juego.
+Dearg Diulai	MundoGoticoX	MGX-162-174-DeargDiulai	0	2	Vampiro	Aliado	Vasallo	Mientras este aliado este en juego, su controlador debe descartarse de una carta de su mano al final de su turno.
+Vlad Tepes	MundoGoticoX	MGX-163-174-VladTepes	--	2	--	Talisman	Cortesano	Tus vampiros destruidos en este turno vuelven a la linea de defensa.
+Calixto	MundoGoticoX	MGX-164-174-Calixto	1	1	Licantropo	Aliado	Cortesano	Puede llevar un arma pagando 2 menos de oro.
+Cachorro	MundoGoticoX	MGX-165-174-Cachorro	1	1	Licantropo	Aliado	Vasallo	--
+Titan Licantropo	MundoGoticoX	MGX-166-174-TitanLicantropo	12	10	Licantropo	Aliado	Cortesano	No puede ser bloqueado. Cuando entra en juego bota todas las cartas de tu mano al cementerio.
+Brazo Fuerte	MundoGoticoX	MGX-167-174-BrazoFuerte	1	1	Licantropo	Aliado	Vasallo	Puede llevar 2 armas.
+Rastreador	MundoGoticoX	MGX-168-174-Rastreador	2	3	Licantropo	Aliado	Vasallo	--
+Licantropos Salvajes	MundoGoticoX	MGX-169-174-LicantroposSalvajes	1	2	Licantropo	Aliado	Vasallo	Solo puede ser bloqueado por licantropos.
+Guardia del Escudo	MundoGoticoX	MGX-170-174-GuardiadelEscudo	3	1	Licantropo	Aliado	Vasallo	Solo puede bloquear.
+Ambroce	MundoGoticoX	MGX-171-174-Ambroce	3	4	Licantropo	Aliado	Vasallo	Si ataca y hace dano al castillo oponente, puedes destruirle un totem a eleccion.
+Corot	MundoGoticoX	MGX-172-174-Corot	1	2	Licantropo	Aliado	Vasallo	--
+Fribert	MundoGoticoX	MGX-173-174-Fribert	1	3	Licantropo	Aliado	Vasallo	Puedes destruirlo cuando desees; produce oro igual al numero de licantropos que tengas en juego, solo por el turno.
+Van Helsing	MundoGoticoX	MGX-174-174-VanHelsing	2	2	Cazador	Aliado	Real	Cuando entra en juego, todos tus demas cazadores ganan +1 de fuerza permanentemente.
+Anchancho	LaIradelNahual	IDN-001-126-Anchancho	--	4	--	Talisman	Cortesano	Eliges el Aliado de mayor fuerza de tu oponente y lo pones en su cementerio.
+Yanomami	LaIradelNahual	IDN-002-126-Yanomami	--	4	--	Talisman	Cortesano	Destruye un Aliado oponente a tu eleccion.
+Auca	LaIradelNahual	IDN-003-126-Auca	--	1	--	Talisman	Cortesano	En el momento que tu oponente juegue un Arma desde su mano, puedes jugar esta carta y mandar a su cementerio dicha Arma.
+Toki	LaIradelNahual	IDN-004-126-Toki	--	1	--	Talisman	Cortesano	En el momento que tu oponente juegue un Totem desde su mano, puedes jugar esta carta y mandar a su cementerio dicho Totem.
+Flechero	LaIradelNahual	IDN-005-126-Flechero	--	1	--	Talisman	Cortesano	En el momento que tu oponente juegue un Talisman desde su mano, puedes jugar esta carta y mandar a su cementerio dicho Talisman.
+Ira del Nahual	LaIradelNahual	IDN-006-126-IradelNahual	--	4	--	Talisman	Real	Todos tus aliados que ataquen son imbloqueables por este turno.
+Ix Chebel Yax	LaIradelNahual	IDN-007-126-IxChebelYax	--	2	--	Talisman	Cortesano	Puedes buscar un talisman en tu castillo y ponerlo en tu mano.
+Pachamama	LaIradelNahual	IDN-008-126-Pachamama	--	2	--	Talisman	Real	Puedes buscar un aliado en tu castillo y ponerlo en tu mano.
+Ix Tabai	LaIradelNahual	IDN-009-126-IxTabai	--	2	--	Talisman	Vasallo	Si en el turno anterior fuiste atacado, tu oponente debera mandar al cementerio a uno de sus Aliados.
+Sacrificio Humano	LaIradelNahual	IDN-010-126-SacrificioHumano	--	5	--	Talisman	Real	Por cada aliado en juego, tu oponente debe pagar un oro, si no lo hace debe enviarlo al cementerio.
+K' Ak' Na	LaIradelNahual	IDN-011-126-K'Ak'Na	--	4	--	Talisman	Real	El oponente descarta 2 cartas de su mano al cementerio y tu robas la carta superior de tu castillo.
+Machitun	LaIradelNahual	IDN-012-126-Machitun	--	2	--	Talisman	Real	Reduce a cero todo el dano hecho por tu oponente en este turno.
+Sotz' Na	LaIradelNahual	IDN-013-126-Sotz'Na	--	3	--	Talisman	Real	En el momento que tu oponente juegue un aliado desde su mano, puedes jugar esta carta y botar al cementerio a dicho aliado.
+Ix Chel	LaIradelNahual	IDN-014-126-IxChel	--	2	--	Talisman	Vasallo	Un Aliado que elijas no podra ser bloqueado en este turno.
+Xochi Yaoyotl	LaIradelNahual	IDN-015-126-XochiYaoyotl	--	4	--	Talisman	Real	Un aliado dobla su fuerza hasta el final del turno.
+Ch' Ayin Na	LaIradelNahual	IDN-016-126-Ch'AyinNa	--	4	--	Talisman	Cortesano	Si en tu turno tienes menos de 5 cartas en tu castillo, puedes tomar las 5 cartas superiores de tu cementerio y barajarlas con tu castillo.
+Cataratas del Iguazu	LaIradelNahual	IDN-017-126-CataratasdelIguazu	--	4	--	Talisman	Real	Destruye 2 aliados en juego y juega otro turno despues de este.
+Revolucion de los Objetos	LaIradelNahual	IDN-018-126-RevoluciondelosObjetos	--	6	--	Talisman	Real	Busca una carta de aliado en el castillo de tu oponente y ponla en juego en tu linea de defensa.
+Rito del Dorado	LaIradelNahual	IDN-019-126-RitodelDorado	--	0	--	Talisman	Real	Descartate de 2 cartas y busca dos oros en tu castillo para ponerlos en tu mano.
+Reduccion de Cabeza	LaIradelNahual	IDN-020-126-ReducciondeCabeza	--	4	--	Talisman	Vasallo	Si tu oponente tiene todos sus Oros ocupados, destruye uno de ellos enviandolo al cementerio.
+Mascara del Sol	LaIradelNahual	IDN-021-126-MascaradelSol	--	3	--	Talisman	Cortesano	Elige un Oro en juego y devuelvelo a la mano de su propietario.
+Sacrificio Gladiatorio	LaIradelNahual	IDN-022-126-SacrificioGladiatorio	--	4	--	Talisman	Cortesano	Tu oponente bota de su castillo tantas cartas como Aliados tenga en juego.
+Iniciacion Guerrera	LaIradelNahual	IDN-023-126-IniciacionGuerrera	--	3	--	Talisman	Cortesano	Si todos tus Aliados son del mismo tipo, estos ganan +1 de fuerza, hasta el final del turno.
+Camaxtle	LaIradelNahual	IDN-024-126-Camaxtle	--	2	--	Talisman	Vasallo	Todos los Aliados que lleven Armas no podran ser bloqueados en este turno.
+Tonatiuh	LaIradelNahual	IDN-025-126-Tonatiuh	--	1	--	Talisman	Real	Genera 2 de oro virtuales para Chamanes.
+Caceria del Peyolt	LaIradelNahual	IDN-026-126-CaceriadelPeyolt	--	1	--	Talisman	Cortesano	Genera 2 Oros virtuales para Talismanes, Arma o Totem.
+Huascar y Atahualpa	LaIradelNahual	IDN-027-126-HuascaryAtahualpa	--	1	--	Talisman	Real	Todos tus aliados defensores no reciben dano en este turno.
+Macun	LaIradelNahual	IDN-028-126-Macun	--	2	--	Talisman	Vasallo	Elige un Chaman en tu cementerio y cambialo por uno que este en juego.
+Ah Puch	LaIradelNahual	IDN-029-126-AhPuch	--	5	--	Talisman	Cortesano	Destruye todos tus Aliados en juego y pon gratis un Aliado en juego desde tu mano.
+Xochiquetzal	LaIradelNahual	IDN-030-126-Xochiquetzal	--	3	--	Talisman	Vasallo	Un Aliado dobla su fuerza por este turno, si esta defendiendo.
+Totem de Perro	LaIradelNahual	IDN-031-126-TotemdePerro	--	1	--	Totem	Cortesano	Elige un tipo de Aliado en juego y todos tus Aliados seran de ese tipo.
+Totem del Condor	LaIradelNahual	IDN-032-126-TotemdelCondor	--	6	--	Totem	Real	Todos tus aliados son imbloqueables.
+Totem de Conejo	LaIradelNahual	IDN-033-126-TotemdeConejo	--	1	--	Totem	Vasallo	Si un Aliado que tengas en juego es destruido, para salvarlo puedes destruir este Totem.
+Totem del Aguila	LaIradelNahual	IDN-034-126-TotemdelAguila	--	2	--	Totem	Real	Te cuesta un oro menos jugar Chamanes.
+Totem de Guanaco	LaIradelNahual	IDN-035-126-TotemdeGuanaco	--	2	--	Totem	Cortesano	A tu oponente le cuesta un Oro mas jugar sus cartas.
+Totem de Cocodrilo	LaIradelNahual	IDN-036-126-TotemdeCocodrilo	--	4	--	Totem	Cortesano	Tu oponente, antes de poner en juego un Oro, debe pagarlo con otro.
+Totem del Mono	LaIradelNahual	IDN-037-126-TotemdelMono	--	2	--	Totem	Real	Todos tus aliados pueden llevar un arma extra.
+Totem de Jaguar	LaIradelNahual	IDN-038-126-TotemdeJaguar	--	2	--	Totem	Cortesano	Todos tus aliados ganan +1 de fuerza.
+Totem del Puma	LaIradelNahual	IDN-039-126-TotemdelPuma	--	3	--	Totem	Real	Ningun jugador puede bajar mas oros. Cualquier jugador puede botar 3 cartas de su castillo para destruir este Totem.
+Totem de Serpiente	LaIradelNahual	IDN-040-126-TotemdeSerpiente	--	3	--	Totem	Cortesano	Por cada Aliado que te ataque, tu oponente debera botar una carta de su castillo al final del ataque.
+Insignia de Toqui	LaIradelNahual	IDN-041-126-InsigniadeToqui	--	0	--	Arma	Vasallo	Su portador es del tipo que elijas.
+Atlatl	LaIradelNahual	IDN-042-126-Atlatl	--	3	--	Arma	Vasallo	Su portador gana +3 a la fuerza y no puede ser bloqueado.
+Tepoztopilli	LaIradelNahual	IDN-043-126-Tepoztopilli	--	3	--	Arma	Vasallo	Su portador puede bloquear cartas imbloqueables.
+Boleadoras	LaIradelNahual	IDN-044-126-Boleadoras	--	2	--	Arma	Vasallo	Su portador puede bloquear a mas de un Aliado oponente.
+Cerbatana	LaIradelNahual	IDN-045-126-Cerbatana	--	2	--	Arma	Cortesano	Si su portador es bloqueado tu oponente se descarta de todas las cartas de su mano.
+Honda	LaIradelNahual	IDN-046-126-Honda	--	2	--	Arma	Vasallo	Su portador gana +1 de fuerza y no puede ser bloqueado.
+Macahuitl	LaIradelNahual	IDN-047-126-Macahuitl	--	2	--	Arma	Vasallo	Siempre que este Aliado haga dano al castillo oponente, puedes buscar una carta de Oro en tu castillo y ponerlo en juego.
+Maza	LaIradelNahual	IDN-048-126-Maza	--	2	--	Arma	Vasallo	Siempre que este Aliado haga dano a un castillo, toma una carta al azar de la mano de tu oponente y mandala al cementerio.
+Arco y Flechas	LaIradelNahual	IDN-049-126-ArcoyFlechas	--	3	--	Arma	Cortesano	Este Aliado gana fuerza igual al numero de Oros que tengas en juego.
+Tecpatl	LaIradelNahual	IDN-050-126-Tecpatl	--	2	--	Arma	Cortesano	El Aliado portador de esta Arma es imbloqueable.
+Cueva de Quicavi	LaIradelNahual	IDN-051-126-CuevadeQuicavi	2	3	Chaman	Aliado	Vasallo	Si es destruido, todos tus Aliados en juego ganan +1 de fuerza permanentemente.
+Huitzil	LaIradelNahual	IDN-052-126-Huitzil	2	3	Chaman	Aliado	Cortesano	Una vez por turno paga uno de Oro y destruye un Aliado que tenga fuerza 1 o menos.
+Machi	LaIradelNahual	IDN-053-126-Machi	1	3	Chaman	Aliado	Cortesano	Paga uno de Oro y un Aliado oponente tiene fuerza cero hasta el final del turno.
+Inca Yupanqui	LaIradelNahual	IDN-054-126-IncaYupanqui	1	1	Chaman	Aliado	Real	Por cada Totem que este bajo tu control este Chaman gana +1 de fuerza.
+Tacan	LaIradelNahual	IDN-055-126-Tacan	1	1	Chaman	Aliado	Vasallo	Si es destruido, los otros Chamanes que controles ganan +1 de fuerza permanentemente.
+Pahuahtun	LaIradelNahual	IDN-056-126-Pahuahtun	2	0	Chaman	Aliado	Cortesano	Para que entre en juego debes descartarte de una carta de tu mano (Imbloqueable).
+Itzam Na	LaIradelNahual	IDN-057-126-ItzamNa	2	3	Chaman	Aliado	Cortesano	Puedes bloquear cartas imbloqueables.
+Nanahuatzin	LaIradelNahual	IDN-058-126-Nanahuatzin	4	1	Chaman	Aliado	Real	Para entrar en juego bota al cementerio dos cartas de tu castillo. (Imbloqueable. Carta unica)
+Kenos	LaIradelNahual	IDN-059-126-Kenos	1	1	Chaman	Aliado	Vasallo	Puedes destruirlo cuando quieras y un Aliado oponente tendra fuerza 0 hasta el final del turno.
+Cin Teotl	LaIradelNahual	IDN-060-126-CinTeotl	2	2	Chaman	Aliado	Vasallo	Si bloquea gana +1 de fuerza hasta el final del turno.
+Wiraqocha	LaIradelNahual	IDN-061-126-Wiraqocha	1	2	Chaman	Aliado	Cortesano	Si ataca y hace dano al castillo oponente puedes buscar un Chaman en tu castillo y ponerlo en tu mano.
+Huehue Teotl	LaIradelNahual	IDN-062-126-HuehueTeotl	2	3	Chaman	Aliado	Cortesano	Por cada Chaman que tengas en juego este Chaman gana +1 de fuerza.
+Kalku	LaIradelNahual	IDN-063-126-Kalku	3	6	Chaman	Aliado	Real	Cuando entra en juego tu oponente bota 3 cartas de su castillo.
+Runa Urutrungu	LaIradelNahual	IDN-064-126-RunaUrutrungu	2	4	Chaman	Aliado	Real	Cuando entra en juego puedes buscar un Totem y ponerlo en juego.
+Apu Illa	LaIradelNahual	IDN-065-126-ApuIlla	1	3	Chaman	Aliado	Cortesano	Puede llevar un Arma gratis.
+Kukulcan	LaIradelNahual	IDN-066-126-Kukulcan	2	2	Chaman	Aliado	Vasallo	Una vez por turno, pagando uno de Oro, puedes ver la carta superior de cualquier castillo.
+Inti	LaIradelNahual	IDN-067-126-Inti	3	3	Chaman	Aliado	Real	Cuando entra en juego destruye 2 oros de tu oponente. (Carta unica).
+Tezcaltlipoca	LaIradelNahual	IDN-068-126-Tezcaltlipoca	1	2	Chaman	Aliado	Cortesano	Cuando entra en juego busca un Totem en tu cementerio y ponlo en tu mano.
+Joon	LaIradelNahual	IDN-069-126-Joon	1	3	Chaman	Aliado	Vasallo	Gana +1 de fuerza por cada Aliado que te ataque hasta el final del turno.
+Cipatonal y Oxmoco	LaIradelNahual	IDN-070-126-CipatonalyOxmoco	3	4	Chaman	Aliado	Real	Si es destruido, devuelve 3 cartas a eleccion de tu cementerio a tu castillo.
+Cunas	LaIradelNahual	IDN-071-126-Cunas	1	1	Guerrero	Aliado	Vasallo	Imbloqueable.
+Tlaloques	LaIradelNahual	IDN-072-126-Tlaloques	1	3	Guerrero	Aliado	Real	Gana +2 de fuerza por cada Chaman en juego.
+Galvarino	LaIradelNahual	IDN-073-126-Galvarino	3	4	Guerrero	Aliado	Cortesano	Puede llevar un Arma extra.
+Cangrejos	LaIradelNahual	IDN-074-126-Cangrejos	2	3	Guerrero	Aliado	Cortesano	Si lleva un Arma es imbloqueable.
+Tzitzimime	LaIradelNahual	IDN-075-126-Tzitzimime	2	4	Guerrero	Aliado	Cortesano	Puede atacar cuando entra en juego (Imbloqueable).
+Huracan	LaIradelNahual	IDN-076-126-Huracan	3	0	Guerrero	Aliado	Real	Puede atacar cuando entra en juego, al final del turno en que ataque es destruido. (Imbloqueable)
+Ruminahui	LaIradelNahual	IDN-077-126-Ruminahui	1	1	Guerrero	Aliado	Vasallo	Puede atacar el turno que entra en juego.
+Caupolican	LaIradelNahual	IDN-078-126-Caupolican	2	3	Guerrero	Aliado	Cortesano	Cuando entra en juego busca un Totem en tu cementerio y ponlo en tu mano.
+Chacs	LaIradelNahual	IDN-079-126-Chacs	6	0	Guerrero	Aliado	Real	Para entrar en juego descartate de todas las cartas de tu mano. (Carta unica).
+Guajiro	LaIradelNahual	IDN-080-126-Guajiro	2	2	Guerrero	Aliado	Vasallo	Cuando ataca gana +1 de fuerza hasta el final del turno.
+Cabracan	LaIradelNahual	IDN-081-126-Cabracan	2	3	Guerrero	Aliado	Real	Destruye esta carta y luego destruye un Totem de tu oponente.
+Guerrero Aguila	LaIradelNahual	IDN-082-126-GuerreroAguila	2	4	Guerrero	Aliado	Vasallo	Por cada guerrero destruido, gana +1 de fuerza permanentemente.
+Lautaro	LaIradelNahual	IDN-083-126-Lautaro	0	4	Guerrero	Aliado	Cortesano	Cuando entra en juego destruye todos tus Aliados en juego. Por cada Aliado destruido, Lautaro gana +1 de fuerza permanentemente (Imbloqueable)
+Etsa	LaIradelNahual	IDN-084-126-Etsa	2	2	Guerrero	Aliado	Vasallo	No puede ser bloqueado por Chamanes.
+Karib	LaIradelNahual	IDN-085-126-Karib	3	4	Guerrero	Aliado	Vasallo	Llevar Armas en este Aliado te cuesta un Oro menos.
+Cihuate Teotl	LaIradelNahual	IDN-086-126-CihuateTeotl	2	3	Guerrero	Aliado	Real	Gana +1 de fuerza por cada arma que tengas en juego.
+Namandu	LaIradelNahual	IDN-087-126-Namandu	1	2	Guerrero	Aliado	Vasallo	Cuando entra en juego puedes verle la mano a tu oponente.
+Peri Pillan	LaIradelNahual	IDN-088-126-PeriPillan	1	2	Guerrero	Aliado	Cortesano	Puede llevar un Arma extra.
+Umoara	LaIradelNahual	IDN-089-126-Umoara	4	4	Guerrero	Aliado	Real	Puede llevar un Arma extra.
+Acihuatl	LaIradelNahual	IDN-090-126-Acihuatl	5	5	Guerrero	Aliado	Real	Puede bloquear a mas de un aliado.
+Tlaca Tecolotl	LaIradelNahual	IDN-091-126-TlacaTecolotl	3	6	Guerrero	Aliado	Real	Cuando entra en juego, roba 4 cartas de tu castillo y descarta 2 de tu mano.
+Centzon Totochtin	LaIradelNahual	IDN-092-126-CentzonTotochtin	3	4	Guerrero	Aliado	Vasallo	Puede llevar un Arma extra.
+Ahu Kin	LaIradelNahual	IDN-093-126-AhuKin	1	2	Guerrero	Aliado	Real	Cuando entra en juego destruye un arma en juego.
+Quetzalcoatl Retorna	LaIradelNahual	IDN-094-126-QuetzalcoatlRetorna	2	3	Guerrero	Aliado	Vasallo	Gana +1 de fuerza si ataca.
+Chasqui	LaIradelNahual	IDN-095-126-Chasqui	4	2	Guerrero	Aliado	Real	No puede atacar. Si recibe dano para ser destruido, puedes pagar un oro para que siga en juego.
+Tlazolteotl	LaIradelNahual	IDN-096-126-Tlazolteotl	4	4	Guerrero	Aliado	Real	Cuando entra en juego destruye todos los aliados de todos los jugadores que tengan 2 o menos de fuerza.
+Tsachila	LaIradelNahual	IDN-097-126-Tsachila	2	3	Guerrero	Aliado	Vasallo	--
+Killa	LaIradelNahual	IDN-098-126-Killa	4	6	Guerrero	Aliado	Vasallo	--
+Shuar	LaIradelNahual	IDN-099-126-Shuar	2	2	Guerrero	Aliado	Vasallo	--
+Moctezuma	LaIradelNahual	IDN-100-126-Moctezuma	2	0	Guerrero	Aliado	Vasallo	Solo puede bloquear.
+Basilisco	LaIradelNahual	IDN-101-126-Basilisco	2	2	Bestia	Aliado	Vasallo	Cuando entra en juego, elige un tipo de Aliado y Basilisco no podrá ser bloqueado por este.
+Camahueto	LaIradelNahual	IDN-102-126-Camahueto	3	2	Bestia	Aliado	Vasallo	Despues de atacar vuelve a la linea de defensa.
+Cuchivilu	LaIradelNahual	IDN-103-126-Cuchivilu	2	2	Bestia	Aliado	Real	Cuando entra en juego todas tus bestias ganan +1 de fuerza permanentemente.
+Cuero	LaIradelNahual	IDN-104-126-Cuero	6	4	Bestia	Aliado	Cortesano	Mientras este en juego todas tus Bestias son imbloqueables.
+Caballo Marino	LaIradelNahual	IDN-105-126-CaballoMarino	2	2	Bestia	Aliado	Vasallo	Si ataca gana +1 de fuerza por el turno.
+Amaru	LaIradelNahual	IDN-106-126-Amaru	5	5	Bestia	Aliado	Vasallo	--
+Chinivilu	LaIradelNahual	IDN-107-126-Chinivilu	2	2	Bestia	Aliado	Vasallo	Si es destruido, una Bestia que elijas gana +2 de fuerza por el resto del juego.
+Cuauhtemoc	LaIradelNahual	IDN-108-126-Cuauhtemoc	3	5	Guerrero	Aliado	Cortesano	Si es bloqueado, puedes buscar un Arma en tu castillo y ponerla en tu mano.
+Puchao	LaIradelNahual	IDN-109-126-Puchao	--	--	--	Oro	Real	Devuelve un oro a tu mano, luego pon esta carta en tu reserva de oro. Al utilizarlo cuenta como 2 oros.
+Tesoro de Guayacan	LaIradelNahual	IDN-110-126-TesorodeGuayacan	--	--	--	Oro	Real	Destruye dos aliados por esta carta en tu reserva de oro. Al utilizarlo cuenta como 3 oros.
+Trapelacucha	LaIradelNahual	IDN-111-126-Trapelacucha	--	--	--	Oro	Oro	--
+Collar de Mani	LaIradelNahual	IDN-112-126-CollardeMani	--	--	--	Oro	Oro	--
+Nariguera	LaIradelNahual	IDN-113-126-Nariguera	--	--	--	Oro	Oro	--
+Senor de Sipan	LaIradelNahual	IDN-114-126-SenordeSipan	--	--	--	Oro	Oro	--
+Uxmal	LaIradelNahual	IDN-115-126-Uxmal	--	--	--	Oro	Oro	--
+Machu Picchu	LaIradelNahual	IDN-116-126-MachuPicchu	--	--	--	Oro	Oro	--
+Zampona	LaIradelNahual	IDN-117-126-Zampona	--	--	--	Oro	Oro	--
+Tzolkin	LaIradelNahual	IDN-118-126-Tzolkin	--	--	--	Oro	Oro	--
+Craneo de Cristal	LaIradelNahual	IDN-119-126-CraneodeCristal	--	--	--	Oro	Oro	--
+Trutruca	LaIradelNahual	IDN-120-126-Trutruca	--	--	--	Oro	Oro	--
+Puerta del Sol Tiahuanacu	LaIradelNahual	IDN-121-126-PuertadelSolTiahuanacu	--	--	--	Oro	Oro	--
+Nazca	LaIradelNahual	IDN-122-126-Nazca	--	--	--	Oro	Oro	--
+Columnas de Thulan	LaIradelNahual	IDN-123-126-ColumnasdeThulan	--	--	--	Oro	Oro	--
+Tenochtitlan	LaIradelNahual	IDN-124-126-Tenochtitlan	--	--	--	Oro	Oro	--
+El Dorado	LaIradelNahual	IDN-125-126-ElDorado	--	--	--	Oro	Oro	--
+Ciudad de los Cesares	LaIradelNahual	IDN-126-126-CiudaddelosCesares	--	--	--	Oro	Oro	--
+Los Eddas	Ragnarok	RNK-001-126-LosEddas	--	5	--	Talisman	Real	Tu oponente se descarta de toda su Mano, luego este roba cuatro cartas.
+Matador de Gigantes	Ragnarok	RNK-002-126-MatadordeGigantes	--	5	--	Talisman	Real	Todos tus Aliados doblan su fuerza. Por turno.
+Galdar	Ragnarok	RNK-003-126-Galdar	--	4	--	Talisman	Real	Copia la habilidad de un Talisman que este en tu Cementerio.
+Juramento de los Heroes	Ragnarok	RNK-004-126-JuramentodelosHeroes	--	3	--	Talisman	Real	Por cada Aliado oponente que te haya atacado en el turno anterior podras recuperar el mismo numero de cartas de tu Cementerio y barajarlas con tu Castillo (al azar).
+Naglfar	Ragnarok	RNK-005-126-Naglfar	--	4	--	Talisman	Real	Todos los jugadores destruyen todas las cartas en juego. Y tu oponente bota dos cartas de su Castillo.
+Espina Somnoliente	Ragnarok	RNK-006-126-EspinaSomnoliente	--	1	--	Talisman	Real	Destruye un Arma o Totem en juego y bota una carta de tu Castillo.
+Nidavellir	Ragnarok	RNK-007-126-Nidavellir	--	4	--	Totem	Real	Cuando tu oponente juegue un Aliado, paga su valor y este quedara bajo tu control por el resto del juego.
+Lanza de Odin	Ragnarok	RNK-008-126-LanzadeOdin	--	3	--	Arma	Real	Solo puede ser llevada por una Abominacion; siempre que esta Abominacion reciba dano para ser destruida, descartate de una carta para que siga en juego.
+Martillo de Thor	Ragnarok	RNK-009-126-MartillodeThor	--	3	--	Arma	Real	Por cada punto de dano que haga este Aliado al Castillo oponente, podras barajar igual numero de cartas de tu Cementerio con tu Castillo (carta unica).
+Guantes de Hierro	Ragnarok	RNK-010-126-GuantesdeHierro	--	3	--	Arma	Real	Agrega +1 a la fuerza de su portador. Su portador no recibe dano de combate.
+Hodur	Ragnarok	RNK-011-126-Hodur	0	4	Dios	Aliado	Real	Cuando Hodur entra en juego se convierte en una copia total de un Aliado oponente. Este es barajado en su Castillo y no podra ser jugado mientras Hodur este en juego.
+Hermod	Ragnarok	RNK-012-126-Hermod	5	5	Dios	Aliado	Real	Cuando entra en juego puedes devolver de tu Cementerio un Dios de cualquier fuerza a tu Castillo.
+Nanna	Ragnarok	RNK-013-126-Nanna	1	1	Dios	Aliado	Real	Si algun jugador juega un Talisman puedes destruir esta carta y anular a dicho Talisman.
+Nyord	Ragnarok	RNK-014-126-Nyord	3	5	Dios	Aliado	Real	Paga 4 de Oro y busca un Dios de fuerza 4 o menos en tu Castillo, luego ponlo en tu linea de defensa.
+Magni	Ragnarok	RNK-015-126-Magni	2	3	Dios	Aliado	Real	Si hace dano al Castillo oponente podras descartarle a tu oponente una carta de su Mano.
+Hel	Ragnarok	RNK-016-126-Hel	2	5	Abominacion	Aliado	Real	Todos tus turnos paga su coste y devuelve las cinco cartas superiores de tu Cementerio a tu Castillo, luego barajalo.
+Gigantes de Fuego	Ragnarok	RNK-017-126-GigantesdeFuego	5	3	Abominacion	Aliado	Real	Cuando entra en juego puedes ponerle un Arma sin pagar su coste, al final del turno que ataque es destruido (unica).
+Brokk	Ragnarok	RNK-018-126-Brokk	3	2	Abominacion	Aliado	Real	Si es la primera carta que pones en juego, podras buscar dos cartas de Oro en tu Castillo y ponerlas en tu Mano.
+Gigantes de Hielo	Ragnarok	RNK-019-126-GigantesdeHielo	4	4	Abominacion	Aliado	Real	Mientras este en juego, todas tus Abominaciones despues de atacar vuelven a la linea de defensa y ganan +1 a la fuerza permanentemente.
+Nidhogg	Ragnarok	RNK-020-126-Nidhogg	4	4	Abominacion	Aliado	Real	Si hace dano a un Castillo, paga uno de Oro y tu oponente bota una carta de su Castillo a su Cementerio.
+Draugar	Ragnarok	RNK-021-126-Draugar	4	4	Abominacion	Aliado	Real	Todos tus Abominaciones pueden atacar cuando entren en juego y mientras este Aliado este en juego.
+Ejercito Enano	Ragnarok	RNK-022-126-EjercitoEnano	3	2	Abominacion	Aliado	Real	Solo puede atacar o bloquear si tu oponente tiene menos cartas Oro en juego que tu. Las demas copias de esta carta tienen +1 a la fuerza.
+Garm	Ragnarok	RNK-023-126-Garm	2	3	Abominacion	Aliado	Real	Si esta en el Cementerio puedes pagar dos de Oro y ponerlo en juego.
+Geri y Freki	Ragnarok	RNK-024-126-GeriyFreki	6	2	Abominacion	Aliado	Real	Solo puede bloquear y no es destruida por habilidades de Armas, Talismanes o Totem.
+Hymir	Ragnarok	RNK-025-126-Hymir	10	8	Abominacion	Aliado	Real	Si esta en tu Cementerio la puedes poner en juego pagando 4 de Oro y destruyendo un Aliado de fuerza 4 o superior.
+Ratatosk	Ragnarok	RNK-026-126-Ratatosk	3	3	Abominacion	Aliado	Real	Puedes destruir este Aliado para que todas tus cartas ganen + 1 de fuerza permanentemente.
+Gandalf	Ragnarok	RNK-027-126-Gandalf	4	3	Abominacion	Aliado	Real	Si ataca junto al Ejercito Enano ellos ganan +1 de fuerza imbloqueable.
+Dawn	Ragnarok	RNK-028-126-Dawn	1	3	Barbaro	Aliado	Real	Cuando entra en juego elige una raza tipo de Aliado, gana + 1 de fuerza por cada carta de la misma raza que tenga tu oponente en juego.
+Vola	Ragnarok	RNK-029-126-Vola	2	1	Barbaro	Aliado	Real	Si esta carta es bloqueada tu oponente debera destruir un Aliado al Final del turno.
+Ragnar Lodbrog	Ragnarok	RNK-030-126-RagnarLodbrog	3	4	Barbaro	Aliado	Real	Cuando entra en juego destruye un Aliado oponente de fuerza 4 o menos.
+Einheryar	Ragnarok	RNK-031-126-Einheryar	4	4	Barbaro	Aliado	Real	Cuando entra en juego destruye un Aliado oponente.
+Egil Skalla Grimsson	Ragnarok	RNK-032-126-EgilSkallaGrimsson	4	3	Barbaro	Aliado	Real	Mientras este en juego puedes ponerles Armas a tus Barbaros pagando uno menos de Oro.
+Nott	Ragnarok	RNK-033-126-Nott	3	3	Barbaro	Aliado	Real	Todos tus Barbaros ganan +2 de fuerza mientras esta carta este en juego.
+Mani	Ragnarok	RNK-034-126-Mani	2	2	Barbaro	Aliado	Real	Si ataca, tu oponente debe descartarse de dos cartas de su Castillo. Para evitar esta habilidad tu oponente puede descartarse de tres cartas de su Mano. (Imbloqueable, carta única.)
+Sol	Ragnarok	RNK-035-126-Sol	4	3	Barbaro	Aliado	Real	Mientras este en juego, todos tus Barbaros despues de atacar vuelven a la linea de defensa.
+Dagur	Ragnarok	RNK-036-126-Dagur	3	3	Barbaro	Aliado	Real	Siempre que juegues este Barbaro podras buscar un Dios en tu Castillo y ponerlo en tu Mano.
+Elfos Arqueros	Ragnarok	RNK-037-126-ElfosArqueros	2	2	Barbaro	Aliado	Cortesano	Si es destruida, puedes robar tres cartas de tu Castillo o puedes botar tres cartas del Castillo de tu oponente.
+Hyrronkkin	Ragnarok	RNK-038-126-Hyrronkkin	3	2	Barbaro	Aliado	Cortesano	Cuando entra en juego, la proxima carta Aliado que bajes a la linea de defensa te costara -1 de Oro.
+Waldganger	Ragnarok	RNK-039-126-Waldganger	--	3	--	Talisman	Cortesano	Devuelve a la Mano un Aliado oponente en juego, luego puedes robar una carta de tu Castillo.
+Esposas de los Furibundos	Ragnarok	RNK-040-126-EsposasdelosFuribundos	--	2	--	Talisman	Cortesano	Destruye un Aliado oponente de fuerza mayor a 3.
+Nidos de Pesadilla	Ragnarok	RNK-041-126-NidosdePesadilla	--	3	--	Talisman	Cortesano	Busca dos cartas en tu Castillo y tu oponente te descarta de una de ellas. La otra queda en tu Mano.
+Herfyoturr	Ragnarok	RNK-042-126-Herfyoturr	--	2	--	Talisman	Cortesano	Los Aliados que porten Armas vuelven a la linea de defensa despues de atacar.
+Amuleto de Thor	Ragnarok	RNK-043-126-AmuletodeThor	--	2	--	Talisman	Cortesano	En la fase de ataque los Aliados que no lleven Arma tienen fuerza 0 hasta el final del turno.
+Forja de Enanos	Ragnarok	RNK-044-126-ForjadeEnanos	--	3	--	Talisman	Cortesano	Tu oponente descarta cartas de su Castillo hasta que aparezca una carta Oro.
+Astucia de Loki	Ragnarok	RNK-045-126-AstuciadeLoki	--	4	--	Talisman	Cortesano	Todos los Aliados imbloqueables son devueltos a la Mano de su dueno.
+Metamorfosis de Loki	Ragnarok	RNK-046-126-MetamorfosisdeLoki	--	4	--	Talisman	Cortesano	Los bonos de fuerza se aplican negativamente con un minimo de 0 hasta el final del juego.
+Mirada Berserker	Ragnarok	RNK-047-126-MiradaBerserker	--	3	--	Talisman	Cortesano	Todos los jugadores destruyen un Aliado, Arma y Totem que tengan en juego.
+Sacrificio de Odin	Ragnarok	RNK-048-126-SacrificiodeOdin	--	3	--	Talisman	Cortesano	Cada Aliado oponente ve disminuida su fuerza a un minimo de 0, por el numero de cartas que tengas en la Mano.
+Amor de Valkyria	Ragnarok	RNK-049-126-AmordeValkyria	--	2	--	Talisman	Cortesano	Cuando un Aliado sea destruido juega inmediatamente este Talisman para que dicho Aliado siga en juego. Luego podras robar una carta de tu Castillo.
+Espiritus de la Niebla	Ragnarok	RNK-050-126-EspiritusdelaNiebla	--	2	--	Talisman	Cortesano	Tu oponente descarta una carta de su Mano y bota una de su Castillo.
+Fimbultyr	Ragnarok	RNK-051-126-Fimbultyr	--	5	--	Talisman	Cortesano	Todos los jugadores se descartan de su Mano y roban 5 cartas de su Castillo.
+Draupnir	Ragnarok	RNK-052-126-Draupnir	--	4	--	Talisman	Cortesano	Tu oponente en su proximo turno no podra utilizar o jugar cartas de Oro.
+Alfheim	Ragnarok	RNK-053-126-Alfheim	--	2	--	Totem	Cortesano	Tus cartas de Oro en juego no podran ser destruidos.
+Vanaheim	Ragnarok	RNK-054-126-Vanaheim	--	3	--	Totem	Cortesano	Tu oponente no puede atacarte mas. Un jugador puede descartar tres cartas de su Castillo y destruir este Totem.
+Asgard	Ragnarok	RNK-055-126-Asgard	--	3	--	Totem	Cortesano	Cada vez que tu oponente te destruya una carta, el debe destruirse una carta del mismo tipo.
+Niflheim	Ragnarok	RNK-056-126-Niflheim	--	3	--	Totem	Cortesano	Tu oponente en cada turno bota al Cementerio una carta de su Castillo.
+Helheim	Ragnarok	RNK-057-126-Helheim	--	4	--	Totem	Cortesano	Siempre que un Dios sea enviado al Cementerio, puedes descartar dos cartas de tu Castillo para que siga en juego.
+Yotunheim	Ragnarok	RNK-058-126-Yotunheim	--	3	--	Totem	Cortesano	Cada vez que tu oponente juegue un Aliado debera descartar una carta de su Castillo.
+Zapatos de Hierro	Ragnarok	RNK-059-126-ZapatosdeHierro	--	2	--	Arma	Cortesano	Agrega +1 a la fuerza de su portador. Si su portador ataca tu tienes la primera accion de combate.
+Gambantein	Ragnarok	RNK-060-126-Gambantein	--	2	--	Arma	Cortesano	Agrega +1 a la fuerza de su portador. Siempre que este Aliado haga dano al Castillo oponente y se resuelva el dano podras ver las tres primeras cartas del Castillo oponente y ordenarlas como quieras.
+Arco de Ullr	Ragnarok	RNK-061-126-ArcodeUllr	--	3	--	Arma	Cortesano	Agrega +1 a la fuerza de su portador. Cuando pongas en juego esta Arma podras buscar una carta de Oro de tu Castillo y ponerla en juego, luego puedes robar una carta de tu Castillo.
+Espada de Frey	Ragnarok	RNK-062-126-EspadadeFrey	--	3	--	Arma	Cortesano	Agrega +2 a la fuerza de su portador. Cada vez que su portador ataque podras robar una carta extra de tu Castillo al final de tu turno.
+Frigg	Ragnarok	RNK-063-126-Frigg	4	4	Dios	Aliado	Cortesano	Cuando entra en juego puedes devolver de tu Cementerio un Dios de fuerza 3 o menos a tu Castillo.
+Modi	Ragnarok	RNK-064-126-Modi	1	2	Dios	Aliado	Cortesano	Si es el primer Aliado que pones en juego puede llevar un Arma por 2 menos de Oro.
+Baldur	Ragnarok	RNK-065-126-Baldur	3	3	Dios	Aliado	Cortesano	Si es destruido podras buscar una carta en tu Castillo y ponerla en tu Mano.
+Hugin y Munin	Ragnarok	RNK-066-126-HuginyMunin	4	4	Abominacion	Aliado	Cortesano	Cuando entra en juego puedes devolver a tu Castillo una carta del Cementerio de valor 3 o menos.
+Yormungand	Ragnarok	RNK-067-126-Yormungand	3	3	Abominacion	Aliado	Cortesano	En combate puedes descartarte de una carta de tu Mano para que gane +1 de fuerza.
+Aegir	Ragnarok	RNK-068-126-Aegir	2	3	Abominacion	Aliado	Cortesano	Cuando entra en juego tu oponente baraja en su Castillo un Aliado que tenga en juego.
+Vavtrudnir	Ragnarok	RNK-069-126-Vavtrudnir	2	2	Abominacion	Aliado	Cortesano	Si es la primera carta que pones en juego podras buscar un Totem en tu Castillo y ponerlo en tu Mano.
+Byleist	Ragnarok	RNK-070-126-Byleist	1	3	Abominacion	Aliado	Cortesano	No tiene limite de Armas. Cada vez que se le coloque un Arma a este Aliado podras robar una carta extra en este turno.
+Sleipnir	Ragnarok	RNK-071-126-Sleipnir	3	1	Abominacion	Aliado	Cortesano	Solo si tienes menos Aliados que tu oponente puedes poner esta carta en juego.
+Rugnir	Ragnarok	RNK-072-126-Rugnir	4	2	Abominacion	Aliado	Cortesano	Siempre que bloquee a un Aliado oponente deberas buscar un Oro en tu Castillo y ponerlo en tu Mano.
+Surt	Ragnarok	RNK-073-126-Surt	2	2	Abominacion	Aliado	Vasallo	Cuando entra en juego puedes destruir un Totem.
+Trivaldi	Ragnarok	RNK-074-126-Trivaldi	2	3	Barbaro	Aliado	Vasallo	Cuando entra en juego destruye un Aliado oponente de fuerza 3 o menos.
+Cuernos de Adumla	Ragnarok	RNK-075-126-CuernosdeAdumla	--	2	--	Talisman	Vasallo	Puedes buscar una carta de Oro en tu Castillo y ponerla en juego. Este Oro no afecta el limite de Oros por turno.
+Runas	Ragnarok	RNK-076-126-Runas	--	4	--	Talisman	Vasallo	Ambos jugadores roban cartas de su Castillo hasta tener 8 cartas en la Mano.
+Fuente de Mimir	Ragnarok	RNK-077-126-FuentedeMimir	--	4	--	Talisman	Vasallo	Destruye cualquier carta en juego que no sea Oro y luego puedes robar una carta.
+Suplicio de Loki	Ragnarok	RNK-078-126-SupliciodeLoki	--	3	--	Talisman	Vasallo	La fuerza de un Aliado en juego se reduce en 3 con un minimo de 0.
+Hidromiel	Ragnarok	RNK-079-126-Hidromiel	--	2	--	Talisman	Vasallo	Elige 3 cartas en tu Cementerio y barajalas con tu Castillo. Luego roba 2 cartas.
+Holmgang	Ragnarok	RNK-080-126-Holmgang	--	3	--	Talisman	Vasallo	En tu turno elige un Aliado oponente, en el proximo turno debera atacarte; si no puede hacerlo, destruyelo.
+Fuente de Urd	Ragnarok	RNK-081-126-FuentedeUrd	--	3	--	Talisman	Vasallo	En tu turno, tu oponente destruye todos los Aliados que te hayan atacado en el turno anterior.
+Cadena Gleipnir	Ragnarok	RNK-082-126-CadenaGleipnir	--	3	--	Talisman	Vasallo	En la fase de ataque todos los Aliados pierden sus bonos de fuerza hasta el final del turno.
+Fuente de Hvergelmir	Ragnarok	RNK-083-126-FuentedeHvergelmir	--	0	--	Talisman	Vasallo	Mira la Mano de tu oponente, despues podras robar una carta de tu Castillo.
+Funeral Vikingo	Ragnarok	RNK-084-126-FuneralVikingo	--	3	--	Talisman	Vasallo	Destruye un Aliado con Arma.
+Midgard	Ragnarok	RNK-085-126-Midgard	--	3	--	Totem	Vasallo	Tus Aliados despues de atacar vuelven a la linea de defensa.
+Muspellsheimm	Ragnarok	RNK-086-126-Muspellsheimm	--	5	--	Totem	Vasallo	Una vez por turno paga 4 de Oro y destruye una carta en juego que no sea una carta de Oro.
+Cinturon de Thor	Ragnarok	RNK-087-126-CinturondeThor	--	2	--	Arma	Vasallo	Agrega +1 a la fuerza de su portador. Puedes tener mas de tres copias de esta Arma.
+Hacha Danesa	Ragnarok	RNK-088-126-HachaDanesa	--	2	--	Arma	Vasallo	--
+Yelmo Escandinavo	Ragnarok	RNK-089-126-YelmoEscandinavo	--	3	--	Arma	Vasallo	Descarta una Carta de tu Mano para que este Aliado gane +1 de fuerza.
+Niorun	Ragnarok	RNK-090-126-Niorun	2	2	Dios	Aliado	Vasallo	Cuando entra en juego puedes devolver de tu Cementerio un Dios de fuerza 1 o menos a tu Castillo.
+Eir	Ragnarok	RNK-091-126-Eir	3	3	Dios	Aliado	Vasallo	Cuando entra en juego puedes devolver de tu Cementerio un Dios de fuerza 2 o menos a tu Castillo.
+Sif	Ragnarok	RNK-092-126-Sif	2	2	Dios	Aliado	Vasallo	Si es destruido, tu oponente baraja una carta de Aliado en juego en su Castillo.
+Heimdal	Ragnarok	RNK-093-126-Heimdal	2	3	Dios	Aliado	Vasallo	Si va al Cementerio desde el juego descarta una carta de tu Mano para que siga en juego.
+Freya	Ragnarok	RNK-094-126-Freya	1	1	Dios	Aliado	Vasallo	Si esta en la linea de ataque puede volver a la linea de defensa para bloquear.
+Idunn	Ragnarok	RNK-095-126-Idunn	1	3	Dios	Aliado	Vasallo	Por cada Oro que tengas en tu Cementerio gana +1 de fuerza.
+Bragi	Ragnarok	RNK-096-126-Bragi	2	4	Dios	Aliado	Vasallo	Destruye un Oro que tengas en juego y gana +2 de fuerza.
+Nerthus	Ragnarok	RNK-097-126-Nerthus	1	1	Dios	Aliado	Vasallo	Si es destruido podras barajarlo de nuevo en tu Castillo.
+Frey	Ragnarok	RNK-098-126-Frey	1	2	Dios	Aliado	Vasallo	Cuando esta en juego tu Mano aumenta en una carta mas (una vez por juego).
+Ullr	Ragnarok	RNK-099-126-Ullr	3	1	Dios	Aliado	Vasallo	Puede atacar cuando entra en juego pero si asi lo hace descarta una carta de tu Mano.
+Yord	Ragnarok	RNK-100-126-Yord	4	4	Dios	Aliado	Vasallo	--
+Snotra	Ragnarok	RNK-101-126-Snotra	3	3	Dios	Aliado	Vasallo	--
+Tyr	Ragnarok	RNK-102-126-Tyr	5	5	Dios	Aliado	Vasallo	--
+Forseti	Ragnarok	RNK-103-126-Forseti	2	4	Dios	Aliado	Vasallo	Paga uno de Oro y podras robar una carta extra (una vez por turno).
+Kvasir	Ragnarok	RNK-104-126-Kvasir	1	1	Dios	Aliado	Vasallo	--
+Vidar	Ragnarok	RNK-105-126-Vidar	1	3	Dios	Aliado	Vasallo	Paga uno de Oro y gana +1 de fuerza.
+Skadi	Ragnarok	RNK-106-126-Skadi	3	3	Dios	Aliado	Vasallo	--
+Tyra	Ragnarok	RNK-107-126-Tyra	2	1	Dios	Aliado	Vasallo	Solo puede bloquear.
+Fenoeiself	Ragnarok	RNK-108-126-Fenoeiself	2	2	Abominacion	Aliado	Vasallo	Cuando entra en juego puedes devolver a tu Castillo una carta del Cementerio de valor 1 o menos.
+Hraesvelg	Ragnarok	RNK-109-126-Hraesvelg	3	3	Abominacion	Aliado	Vasallo	Cuando entra en juego puedes devolver a tu Castillo una carta del Cementerio de valor 2 o menos.
+Mimir	Ragnarok	RNK-110-126-Mimir	1	1	Abominacion	Aliado	Vasallo	--
+Gyallarhorn	Ragnarok	RNK-111-126-Gyallarhorn	--	--	--	Oro	Oro	Si este Oro es destruido puedes buscar dos cartas de Oro en tu Castillo y ponerlas en juego.
+Halatafl	Ragnarok	RNK-112-126-Halatafl	--	--	--	Oro	Oro	Destruye este Oro y un Aliado en juego tendra fuerza 0 por este turno.
+Drakkar	Ragnarok	RNK-113-126-Drakkar	--	--	--	Oro	Oro	Este Oro solo genera dos Oros para Armas, Totem o Talismanes.
+Ataud de Marfil	Ragnarok	RNK-114-126-AtauddeMarfil	--	--	--	Oro	Oro	Puedes destruir este Oro para que genere el doble por este turno.
+Arqueta de Oro	Ragnarok	RNK-115-126-ArquetadeOro	--	--	--	Oro	Oro	--
+Collar Brising	Ragnarok	RNK-116-126-CollarBrising	--	--	--	Oro	Oro	--
+Martillo Amuleto	Ragnarok	RNK-117-126-MartilloAmuleto	--	--	--	Oro	Oro	--
+Calendario Runico	Ragnarok	RNK-118-126-CalendarioRunico	--	--	--	Oro	Oro	--
+Rimkalk	Ragnarok	RNK-119-126-Rimkalk	--	--	--	Oro	Oro	--
+Armadura de Valkyria	Ragnarok	RNK-120-126-ArmaduradeValkyria	--	--	--	Oro	Oro	--
+Escudo	Ragnarok	RNK-121-126-Escudo	--	--	--	Oro	Oro	--
+Codex Runicus	Ragnarok	RNK-122-126-CodexRunicus	--	--	--	Oro	Oro	--
+Puente Bifrost	Ragnarok	RNK-123-126-PuenteBifrost	--	--	--	Oro	Oro	--
+Piedras Runicas	Ragnarok	RNK-124-126-PiedrasRunicas	--	--	--	Oro	Oro	--
+Carro de Oseberg	Ragnarok	RNK-125-126-CarrodeOseberg	--	--	--	Oro	Oro	--
+Trono de Odin	Ragnarok	RNK-126-126-TronodeOdin	--	--	--	Oro	Oro	--
+Anchimallen	LaCofradia	CFD-001-170-Anchimallen	--	2	--	Talisman	Cortesano	Envia al cementerio una carta al azar de la mano de tu oponente.
+Apolo	LaCofradia	CFD-002-170-Apolo	--	2	--	Talisman	Cortesano	Una carta en juego pierde todas sus habilidades por este turno.
+Ah Puch	LaCofradia	CFD-003-170-AhPuch	--	5	--	Talisman	Cortesano	Destruye todos tus Aliados en juego y pon gratis un Aliado en juego desde tu mano.
+Aquiles	LaCofradia	CFD-004-170-Aquiles	--	2	--	Talisman	Cortesano	Un aliado defensor gana +3 a la fuerza hasta el final del turno.
+Arpia	LaCofradia	CFD-005-170-Arpia	--	2	--	Talisman	Cortesano	Dos cartas oponentes pierden un punto de fuerza por este turno.
+Berserker	LaCofradia	CFD-006-170-Berserker	2	3	--	Aliado	Cortesano	Berserker no puede ser bloqueado.
+Bufalo Blanco	LaCofradia	CFD-007-170-BufaloBlanco	--	3	--	Talisman	Cortesano	Todos tus aliados ganan +1 a la fuerza hasta el final del turno.
+Caceria del Peyolt	LaCofradia	CFD-008-170-CaceriadelPeyolt	--	1	--	Talisman	Cortesano	Genera 2 Oros virtuales para Talismanes, Arma o Totem.
+Cancerbero	LaCofradia	CFD-009-170-Cancerbero	--	1	--	Talisman	Cortesano	Destruye un aliado en juego y puedes buscar 2 cartas de oro en tu castillo.
+Conde Shatten	LaCofradia	CFD-010-170-CondeShatten	2	3	Vampiro	Aliado	Cortesano	Paga uno de Oro y un aliado oponente a tu eleccion, debe atacar el proximo turno.
+Corazon de Leon	LaCofradia	CFD-011-170-CorazondeLeon	2	2	Cazador	Aliado	Cortesano	Cuando ataca este aliado gana +1 a la fuerza.
+Chon-Chon	LaCofradia	CFD-012-170-Chon-Chon	--	2	--	Talisman	Cortesano	El oponente bota dos cartas de su castillo.
+Dominacion	LaCofradia	CFD-013-170-Dominacion	--	3	--	Talisman	Cortesano	Un aliado oponente que elijas no puede atacar el proximo turno.
+Eclipse de Dragon	LaCofradia	CFD-014-170-EclipsedeDragon	--	3	--	Talisman	Cortesano	Tu oponente no puede jugar con su cementerio el resto del juego.
+Escudo Hiperboreo	LaCofradia	CFD-015-170-EscudoHiperboreo	--	2	--	Arma	Cortesano	Su portador, si no es destruido despues de atacar, vuelve a la linea de defensa.
+Estigma	LaCofradia	CFD-016-170-Estigma	--	2	--	Talisman	Cortesano	Un aliado oponente vuelve a la linea de defensa.
+Fenrir	LaCofradia	CFD-017-170-Fenrir	4	2	Licantropo	Aliado	Cortesano	Si ataca debe ser acompanado por dos aliados.
+Grifo	LaCofradia	CFD-018-170-Grifo	3	0	--	Aliado	Cortesano	Si hace dano al Mazo Castillo, debera ser barajada en tu Mazo Castillo (imbloqueable).
+Guantelete	LaCofradia	CFD-019-170-Guantelete	--	2	--	Arma	Cortesano	El portador intercambia fuerza por su coste de Oro.
+Guevadan	LaCofradia	CFD-020-170-Guevadan	3	5	Licantropo	Aliado	Cortesano	Destruye un licantropo que controles y gana +1 de fuerza.
+Hadas	LaCofradia	CFD-021-170-Hadas	1	1	--	Aliado	Cortesano	Al entrar en juego, puedes buscar en tu Mazo Castillo una copia de esta carta y ponerla en juego.
+Hades	LaCofradia	CFD-022-170-Hades	--	2	--	Talisman	Cortesano	Elige una carta de aliado en juego y cambiala por una de tu oponente (solo por el juego).
+Haiit	LaCofradia	CFD-023-170-Haiit	--	1	--	Talisman	Cortesano	Otorga dos oros por el turno.
+Hombre de Poca Fe	LaCofradia	CFD-024-170-HombredePocaFe	--	3	--	Talisman	Cortesano	Destruye un aliado defensor de tu oponente a tu eleccion.
+Huehueteotl	LaCofradia	CFD-025-170-Huehueteotl	3	3	Chaman	Aliado	Cortesano	Por cada chaman que tengas en juego, este Chaman gana +1 a la fuerza.
+Invunche	LaCofradia	CFD-026-170-Invunche	--	2	--	Talisman	Cortesano	Las cartas oponentes pierden un punto de fuerza en este turno.
+Justos por Pecadores	LaCofradia	CFD-027-170-JustosporPecadores	--	4	--	Talisman	Cortesano	Destruye un aliado en juego y no puedes ser atacado el proximo turno.
+Kasim	LaCofradia	CFD-028-170-Kasim	1	2	Vampiro	Aliado	Cortesano	Puede atacar el turno en que es puesto en juego.
+Kel-Essuf	LaCofradia	CFD-029-170-Kel-Essuf	2	2	--	Aliado	Cortesano	Cuando entra en juego, toma la primera carta de tu Mazo Castillo. Si esta carta es un Aliado ponla en juego, de lo contrario botala al Cementerio.
+Licantropia	LaCofradia	CFD-030-170-Licantropia	--	2	--	Talisman	Cortesano	Un aliado en juego que elijas cambia su fuerza por su valor permanentemente.
+Lucha de Golems	LaCofradia	CFD-031-170-LuchadeGolems	--	1	--	Talisman	Cortesano	Durante el resto del juego, los contendores no pueden jugar con el cementerio.
+Luna Llena	LaCofradia	CFD-032-170-LunaLlena	--	3	--	Talisman	Cortesano	Los Licantropos ganan +1 de fuerza por este turno.
+Mascara de Oro	LaCofradia	CFD-033-170-MascaradeOro	--	3	--	Talisman	Cortesano	Despues de atacar, tus aliados vuelven a la linea de defensa.
+Minotauro	LaCofradia	CFD-034-170-Minotauro	2	2	--	Aliado	Cortesano	Por cada Aliado que tengas en juego, gana +1 a la fuerza.
+Ninfas	LaCofradia	CFD-035-170-Ninfas	3	3	--	Aliado	Cortesano	Al jugarla puedes buscar otra carta de Ninfas en tu Mazo Castillo y ponla en tu Mano.
+Ogro	LaCofradia	CFD-036-170-Ogro	0	4	--	Aliado	Cortesano	Por cada uno de tus turnos que no sea declarado atacante gana +2 a la fuerza permanentemente.
+Pegaso	LaCofradia	CFD-037-170-Pegaso	1	1	--	Aliado	Cortesano	Si Pegaso es destruido, uno de tus aliados gana +1 a la fuerza permanentemente.
+Pozo del Juramento	LaCofradia	CFD-038-170-PozodelJuramento	--	4	--	Talisman	Cortesano	Destruye un aliado oponente que este atacando.
+Prueba de Fuego	LaCofradia	CFD-039-170-PruebadeFuego	--	2	--	Talisman	Cortesano	Destruye un vampiro en juego.
+Puritano	LaCofradia	CFD-040-170-Puritano	2	3	Cazador	Aliado	Cortesano	Cuando entra en juego puedes ver la mano de tu oponente.
+Rasputin	LaCofradia	CFD-041-170-Rasputin	1	2	Vampiro	Aliado	Cortesano	Al atacar, destruye una carta de Oro que controles y gana +1 de fuerza por el turno.
+Sacrificio Gladiatorio	LaCofradia	CFD-042-170-SacrificioGladiatorio	--	4	--	Talisman	Cortesano	Tu oponente bota de su castillo tantas cartas como Aliados tenga en juego.
+Serpiente Emplumada	LaCofradia	CFD-043-170-SerpienteEmplumada	1	1	--	Aliado	Cortesano	La Serpiente Emplumada no puede ser bloqueada.
+Shuar	LaCofradia	CFD-044-170-Shuar	2	2	Guerrero	Aliado	Cortesano	Cuando entra en juego nombra una carta, esta y sus copias perderan su habilidad por el resto del juego.
+Totem de la Fecundidad	LaCofradia	CFD-045-170-TotemdelaFecundidad	--	2	--	Totem	Cortesano	Cada jugador roba una carta extra en su turno.
+Totem de Cocodrilo	LaCofradia	CFD-046-170-TotemdeCocodrilo	--	4	--	Totem	Cortesano	Tu oponente, antes de poner en juego un Oro, debe pagarlo con otro.
+Totem de Guanaco	LaCofradia	CFD-047-170-TotemdeGuanaco	--	2	--	Totem	Cortesano	A tu oponente le cuesta un Oro mas jugar sus cartas.
+Totem de Perro	LaCofradia	CFD-048-170-TotemdePerro	--	1	--	Totem	Cortesano	Elige un tipo de Aliado en juego y todos tus Aliados seran de ese tipo.
+Totem del Olvido	LaCofradia	CFD-049-170-TotemdelOlvido	--	3	--	Totem	Cortesano	Descarta una carta de tu mano y genera dos Oro (una vez por turno).
+Unicornio	LaCofradia	CFD-050-170-Unicornio	1	1	--	Aliado	Cortesano	Al sacrificarlo genera un oro en el turno.
+Vigilia de Armas	LaCofradia	CFD-051-170-VigiliadeArmas	--	2	--	Talisman	Cortesano	Al jugarla no se pueden jugar nuevos talismanes o habilidades de carta en el turno.
+Viracocha	LaCofradia	CFD-052-170-Viracocha	--	1	--	Talisman	Cortesano	Al jugarla, una carta oponente no puede atacar o bloquear.
+Xolotl	LaCofradia	CFD-053-170-Xolotl	--	4	--	Talisman	Cortesano	Destruye todas las cartas oponentes de fuerza superior a 3.
+Yelmo	LaCofradia	CFD-054-170-Yelmo	--	2	--	Arma	Cortesano	Su portador se considera imbloqueable.
+Tezcaltlipoca	LaCofradia	CFD-055-170-Tezcaltlipoca	1	3	Chaman	Aliado	Cortesano	Cuando entra en juego, busca un Totem en tu Cementerio y ponlo en tu linea de apoyo.
+Abominacion	LaCofradia	CFD-056-170-Abominacion	2	4	--	Aliado	Real	Mientras este aliado este en juego no podras ser atacado.
+Anubis	LaCofradia	CFD-057-170-Anubis	0	2	--	Aliado	Real	Destruye a Anubis y regresa una carta de tu cementerio a la linea de defensa (carta unica).
+Arlequin	LaCofradia	CFD-058-170-Arlequin	--	3	--	Talisman	Real	Tu oponente descarta igual numero de cartas al dano recibido en tu castillo (carta unica).
+Brujo Chilote	LaCofradia	CFD-059-170-BrujoChilote	2	3	--	Aliado	Real	Paga 3 de Oro y baraja un Aliado oponente a eleccion.
+Cremacion	LaCofradia	CFD-060-170-Cremacion	--	4	--	Talisman	Real	Destruye todos los vampiros en juego.
+Cuchivilu	LaCofradia	CFD-061-170-Cuchivilu	2	2	Bestia	Aliado	Real	Cuando entra en juego todas tus bestias ganan +1 de fuerza permanentemente.
+Duende	LaCofradia	CFD-062-170-Duende	2	3	--	Aliado	Real	Cuando entra en juego tu oponente bota 4 cartas de su Mazo Castillo.
+El Alicanto	LaCofradia	CFD-063-170-ElAlicanto	0	3	--	Aliado	Real	En todos tus turnos gana +1 de fuerza permanentemente.
+Enjambre	LaCofradia	CFD-064-170-Enjambre	2	2	Vampiro	Aliado	Real	Los Vampiros Aliados en juego ganan + 1 a la fuerza y no pueden ser bloqueados.
+Espada Real	LaCofradia	CFD-065-170-EspadaReal	--	--	--	Oro	Real	Todos tus Aliados ganan +1 a la fuerza mientras este Oro este en juego. (No puede ser destruido por habilidades de Aliados oponentes.) (Carta Unica.)
+Fetiche	LaCofradia	CFD-066-170-Fetiche	0	5	Vampiro	Aliado	Real	Tiene fuerza igual al numero de cartas de oro de tu oponente.
+Golem Sombrio	LaCofradia	CFD-067-170-GolemSombrio	3	4	--	Aliado	Real	Una vez que este Aliado haga dano al Mazo Castillo oponente, descartale 3 cartas de su Mano al azar y ademas tu oponente busca una carta en su Cementerio y la pone en su Mano.
+Hechicera	LaCofradia	CFD-068-170-Hechicera	2	3	--	Aliado	Real	Una vez por turno paga 2 oro y busca un talisman en tu mazo castillo y ponlo en tu mano.
+Hombre Lobo	LaCofradia	CFD-069-170-HombreLobo	1	3	Licantropo	Aliado	Real	En el proximo licantropo su coste en oro se reducira a cero.
+Igor	LaCofradia	CFD-070-170-Igor	3	3	--	Aliado	Real	Puede bloquear cartas imbloqueables. Si lo hace duplica su fuerza hasta el final del turno.
+Inti	LaCofradia	CFD-071-170-Inti	3	3	Chaman	Aliado	Real	Cuando entra en juego destruye 2 oros de tu oponente. (Carta unica).
+Kak' Na	LaCofradia	CFD-072-170-Kak'Na	--	4	--	Talisman	Real	El oponente descarta 2 cartas de su mano al cementerio y tu robas la carta superior de tu castillo.
+Kain	LaCofradia	CFD-073-170-Kain	4	4	Vampiro	Aliado	Real	Todos los vampiros que controles ganan +1 de fuerza cuando ataquen.
+Kemsa	LaCofradia	CFD-074-170-Kemsa	1	1	--	Aliado	Real	Si va al Cementerio desde el juego, podras recuperar 3 cartas a eleccion de tu Cementerio y barajalas en tu Castillo.
+Killa	LaCofradia	CFD-075-170-Killa	4	4	Guerrero	Aliado	Real	No se pueden bajar Oros mientras este Aliado este en juego.
+Knochen	LaCofradia	CFD-076-170-Knochen	5	5	--	Aliado	Real	Puede bloquear a mas de un aliado oponente hasta acabar su fuerza.
+Magnus	LaCofradia	CFD-077-170-Magnus	1	1	--	Aliado	Real	Cuando entra en juego descarta una carta de la Mano de tu oponente. Cuando ataca gana +1 a la fuerza por el turno.
+Maui	LaCofradia	CFD-078-170-Maui	4	0	--	Aliado	Real	Cuando entra en juego descarta dos cartas de tu Mazo Castillo y una de tu Mano.
+Medusa	LaCofradia	CFD-079-170-Medusa	1	3	--	Aliado	Real	Paga 1 de Oro y un Aliado oponente no podra atacar este turno.
+Melusina	LaCofradia	CFD-080-170-Melusina	2	2	--	Aliado	Real	Por cada aliado que entre en juego bajo tu control gana +1 de fuerza permanentemente.
+Merlin	LaCofradia	CFD-081-170-Merlin	--	4	--	Talisman	Real	Busca una carta de Caballero en tu castillo y ponla en juego.
+Mesalina	LaCofradia	CFD-082-170-Mesalina	3	3	Vampiro	Aliado	Real	Solo una vez en tu turno paga 2 de oro y descarta una carta de la mano de tu oponente al azar.
+Monje de Kri-Ling	LaCofradia	CFD-083-170-MonjedeKri-Ling	4	4	Cazador	Aliado	Real	Por cada Cazador de vampiro en juego gana + 1 de fuerza.
+Natasha	LaCofradia	CFD-084-170-Natasha	1	1	--	Aliado	Real	Cada vez que ataque genera 2 Oros virtuales solo por el turno.
+Odin	LaCofradia	CFD-085-170-Odin	--	1	--	Talisman	Real	Busca una carta de tu castillo y ponla en tu mano (luego debes volver a barajar tu mazo castillo) (Carta unica).
+Oraculo	LaCofradia	CFD-086-170-Oraculo	--	0	--	Talisman	Real	Solo por este turno, genera 4 Oros virtuales. (Carta unica.)
+Oraculo Zingaro	LaCofradia	CFD-087-170-OraculoZingaro	--	1	--	Talisman	Real	Todas tus cartas de oro generan el doble de oro por un turno (carta unica).
+Pastor	LaCofradia	CFD-088-170-Pastor	2	2	--	Aliado	Real	Al entrar en juego puedes robar hasta 3 cartas de tu Mazo Castillo.
+Revolucion de los Objetos	LaCofradia	CFD-089-170-RevoluciondelosObjetos	--	5	--	Talisman	Real	Busca una carta de Aliado en tu Mazo Castillo y ponlo en juego en tu linea de defensa.
+Ryurik	LaCofradia	CFD-090-170-Ryurik	3	4	Vampiro	Aliado	Real	Gana +1 por cada Vampiro en juego.
+Sacrificio Humano	LaCofradia	CFD-091-170-SacrificioHumano	--	5	--	Talisman	Real	Por cada aliado en juego, tu oponente debe pagar un oro, si no lo hace debe enviarlo al cementerio.
+Salamandra	LaCofradia	CFD-092-170-Salamandra	2	2	--	Aliado	Real	Mientras este Aliado este en juego paga 1 Oro y salva un Aliado a eleccion que haya recibido dano para ser destruido (una vez por turno).
+Sotz' Na	LaCofradia	CFD-093-170-Sotz'Na	--	3	--	Talisman	Real	En el momento que tu oponente juegue un aliado desde su mano, puedes jugar esta carta y botar al cementerio a dicho aliado.
+Stribog	LaCofradia	CFD-094-170-Stribog	--	5	--	Talisman	Real	Son destruidos todos los aliados en juego de los jugadores que participan.
+Thor	LaCofradia	CFD-095-170-Thor	6	6	--	Aliado	Real	Al entrar en juego destruye dos Aliados oponentes a eleccion.
+Totem del Mono	LaCofradia	CFD-096-170-TotemdelMono	--	2	--	Totem	Real	Todos tus aliados pueden llevar un arma extra.
+Trauko	LaCofradia	CFD-097-170-Trauko	2	1	--	Aliado	Real	Gana +1 a la fuerza por cada Trauko aliado en juego.
+Triton	LaCofradia	CFD-098-170-Triton	2	2	--	Aliado	Real	Cada vez que entre o salga del juego descarta una carta de la Mano de tu oponente al azar.
+Vikingo	LaCofradia	CFD-099-170-Vikingo	3	3	--	Aliado	Real	Tu oponente no puede jugar Talismanes mientras este Aliado este en juego.
+Walkirias	LaCofradia	CFD-100-170-Walkirias	--	0	--	Talisman	Real	Puedes jugarla en cualquier momento del juego. Anula una carta jugada por tu oponente enviandola al cementerio (Carta unica).
+Zara	LaCofradia	CFD-101-170-Zara	2	2	--	Aliado	Real	Cuando entra en juego elige un Aliado en juego y este no podra bloquear ni atacar por el resto del juego.
+Zusano	LaCofradia	CFD-102-170-Zusano	1	3	--	Aliado	Real	Puede atacar cuando entra en juego. Porta un Arma sin pagar su coste.
+Amaru	LaCofradia	CFD-103-170-Amaru	0	4	Barbaro	Aliado	Vasallo	Al entrar en juego copia la fuerza y habilidad de un chaman en juego.
+Anima Negra	LaCofradia	CFD-104-170-AnimaNegra	--	2	--	Arma	Vasallo	Su portador gana +1 de fuerza por cada carta en la mano de tu oponente.
+Baal	LaCofradia	CFD-105-170-Baal	--	1	--	Talisman	Vasallo	Baal te permite robar una nueva carta.
+Ballesta	LaCofradia	CFD-106-170-Ballesta	--	2	--	Arma	Vasallo	Su portador no puede atacar o bloquear.
+Basilisco	LaCofradia	CFD-107-170-Basilisco	2	2	Bestia	Aliado	Vasallo	Cuando entra en juego, elige un tipo de Aliado y Basilisco no podrá ser bloqueado por este.
+Caballo Marino	LaCofradia	CFD-108-170-CaballoMarino	2	2	Bestia	Aliado	Vasallo	Si ataca gana +1 de fuerza por el turno.
+Cachorro	LaCofradia	CFD-109-170-Cachorro	1	1	Licantropo	Aliado	Vasallo	Si tienes los 3 cachorros en juego, el costo de los Licantropos se reduce a cero.
+Centauro	LaCofradia	CFD-110-170-Centauro	1	1	--	Aliado	Vasallo	Cada vez que ataca gana + 1 a la fuerza permanentemente.
+Chinivilu	LaCofradia	CFD-111-170-Chinivilu	2	2	Bestia	Aliado	Vasallo	Si es destruido, una Bestia que elijas gana +2 de fuerza por el resto del juego.
+Daphne y Gregor	LaCofradia	CFD-112-170-DaphneyGregor	2	3	Cazador	Aliado	Vasallo	Antes de atacar, tu decides si este Aliado es imbloqueable.
+Dragon de Sombra	LaCofradia	CFD-113-170-DragondeSombra	2	3	--	Aliado	Vasallo	Si ataca y hace dano a un castillo, destruye un Totem a eleccion.
+Emboscada	LaCofradia	CFD-114-170-Emboscada	2	3	--	Aliado	Vasallo	Si ataca y no es bloqueado destruye un Oro de tu oponente.
+Esfinge	LaCofradia	CFD-115-170-Esfinge	4	2	--	Aliado	Vasallo	La Esfinge no puede atacar, solo defender.
+Espada Envenenada	LaCofradia	CFD-116-170-EspadaEnvenenada	--	2	--	Arma	Vasallo	Si el portador ataca es destruido al final del turno.
+Espectro	LaCofradia	CFD-117-170-Espectro	3	2	--	Aliado	Vasallo	Cuando entra en juego, puedes ver la siguiente carta desde algun Mazo Castillo.
+Exorcista	LaCofradia	CFD-118-170-Exorcista	1	0	Cazador	Aliado	Vasallo	Cuando entra en juego, tu oponente debera descartar una carta de su Mano o botar dos de su Mazo Castillo.
+Gnomos Burlones	LaCofradia	CFD-119-170-GnomosBurlones	2	0	--	Aliado	Vasallo	Cuando entra en juego debes destruir uno de tus Aliados.
+Gorgonas	LaCofradia	CFD-120-170-Gorgonas	--	2	--	Talisman	Vasallo	Una carta de tu oponente que tu elijas tendra fuerza "0" hasta el final del turno.
+Guerrero Aguila	LaCofradia	CFD-121-170-GuerreroAguila	2	4	Guerrero	Aliado	Vasallo	Por cada guerrero destruido, gana +1 de fuerza permanentemente.
+Hadas Guerreras	LaCofradia	CFD-122-170-HadasGuerreras	2	3	--	Aliado	Vasallo	Cuando ataque todos tus Aliados seran imbloqueables por este turno.
+Haiwatha	LaCofradia	CFD-123-170-Haiwatha	--	2	--	Talisman	Vasallo	Devuelve una carta del cementerio a tu mano.
+Hefesto	LaCofradia	CFD-124-170-Hefesto	--	3	--	Talisman	Vasallo	Un Aliado en batalla mitologica gana +1 de fuerza permanentemente.
+Honda	LaCofradia	CFD-125-170-Honda	--	2	--	Arma	Vasallo	Su portador gana +1 de fuerza y no puede ser bloqueado.
+Icaro	LaCofradia	CFD-126-170-Icaro	--	0	--	Talisman	Vasallo	Puedes robar una carta de tu castillo.
+Incubo	LaCofradia	CFD-127-170-Incubo	--	2	--	Talisman	Vasallo	Destruye una carta de oro que controles y roba una carta de tu mazo.
+Karib	LaCofradia	CFD-128-170-Karib	3	4	Guerrero	Aliado	Vasallo	Llevar Armas en este Aliado te cuesta un Oro menos.
+Karl	LaCofradia	CFD-129-170-Karl	2	3	Cazador	Aliado	Vasallo	Cuando bloquea, cambia su fuerza por su coste.
+Khnum	LaCofradia	CFD-130-170-Khnum	3	3	--	Aliado	Vasallo	Puede atacar cuando entra en juego, en este turno todos los Aliados son imbloqueables.
+La Quimera	LaCofradia	CFD-131-170-LaQuimera	1	1	--	Aliado	Vasallo	Mira las tres cartas superiores de tu castillo y devuelvelas en el mismo orden.
+Lesther	LaCofradia	CFD-132-170-Lesther	3	0	Vampiro	Aliado	Vasallo	Para entrar en juego descarta dos cartas de tu mano.
+Lilith	LaCofradia	CFD-133-170-Lilith	2	2	--	Aliado	Vasallo	En batalla mitologica, tu oponente no podra jugar habilidades de cartas.
+Linna	LaCofradia	CFD-134-170-Linna	2	1	Cazador	Aliado	Vasallo	Si ataca debe ser boqueada.
+Loki	LaCofradia	CFD-135-170-Loki	--	1	--	Talisman	Vasallo	Puedes ver al azar una carta de tu oponente.
+Manuk	LaCofradia	CFD-136-170-Manuk	4	2	--	Aliado	Vasallo	Cada turno pierde un punto de fuerza.
+Mara	LaCofradia	CFD-137-170-Mara	1	1	--	Aliado	Vasallo	Si es destruido, devuelvelo a tu mano.
+Martillo y Estacas	LaCofradia	CFD-138-170-MartilloyEstacas	--	2	--	Arma	Vasallo	Su portador no puede ser bloqueado por vampiros.
+Moiras	LaCofradia	CFD-139-170-Moiras	3	4	Vampiro	Aliado	Vasallo	Cada vez que no ataque descarta una carta de tu oponente al azar.
+Niamh	LaCofradia	CFD-140-170-Niamh	1	2	Cazador	Aliado	Vasallo	Puedes destruirlo y anula un Aliado oponente que este entrando en juego.
+Nosferatu	LaCofradia	CFD-141-170-Nosferatu	1	3	Vampiro	Aliado	Vasallo	Si hace dano al castillo del oponente, este destruye un aliado en juego.
+Osiris	LaCofradia	CFD-142-170-Osiris	3	3	--	Aliado	Vasallo	Mientras este en juego, tus Totem no podran ser destruidos.
+Pan-Gu	LaCofradia	CFD-143-170-Pan-Gu	--	3	--	Talisman	Vasallo	Busca una carta "Talisman" en tu cementerio y ponla en tu mano.
+Perseo	LaCofradia	CFD-144-170-Perseo	2	4	--	Aliado	Vasallo	Si Perseo esta en juego, Medusas y Sirenas de tu oponente, pierden su habilidad.
+Rugdraige	LaCofradia	CFD-145-170-Rugdraige	2	2	Cazador	Aliado	Vasallo	Cuando entra en juego puedes destruir un Vampiro a eleccion.
+Sirenas	LaCofradia	CFD-146-170-Sirenas	1	3	--	Aliado	Vasallo	Bota dos cartas de tu castillo, y una carta de tu oponente no puede atacar o bloquear en este turno.
+Sisiutil	LaCofradia	CFD-147-170-Sisiutil	1	3	--	Aliado	Vasallo	Paga dos Oro y un Aliado gana +2 de fuerza por este turno.
+Strix	LaCofradia	CFD-148-170-Strix	2	2	Vampiro	Aliado	Vasallo	Si ataca, debe ser acompanado por un aliado
+Totem de Conejo	LaCofradia	CFD-149-170-TotemdeConejo	--	1	--	Totem	Vasallo	Si un Aliado que tengas en juego es destruido, para salvarlo puedes destruir este Totem.
+Tragedia	LaCofradia	CFD-150-170-Tragedia	--	0	--	Talisman	Vasallo	Descarta una carta de tu mano y mira la mano de tu oponente.
+Tsachila	LaCofradia	CFD-151-170-Tsachila	2	3	Guerrero	Aliado	Vasallo	En el siguiente turno en que juegues este Aliado, tu oponente no podras jugar, utilizar ni generar Oros.
+Wondjinas	LaCofradia	CFD-152-170-Wondjinas	--	2	--	Talisman	Vasallo	Por este turno los Aliados en juego cambian su fuerza por su coste en Oro.
+Xamedhi	LaCofradia	CFD-153-170-Xamedhi	5	4	Vampiro	Aliado	Vasallo	Si ataca, el proximo turno no puede volver a la linea de defensa.
+Ymir	LaCofradia	CFD-154-170-Ymir	--	3	--	Talisman	Vasallo	Los aliados del oponente no pueden atacar en este turno.
+Zombies	LaCofradia	CFD-155-170-Zombies	1	1	--	Aliado	Vasallo	No puede ser afectado por Talismanes.
+Baculo	LaCofradia	CFD-156-170-Baculo	--	--	--	Oro	Oro	--
+Caliz Sagrado	LaCofradia	CFD-157-170-CalizSagrado	--	--	--	Oro	Oro	--
+Catedral	LaCofradia	CFD-158-170-Catedral	--	--	--	Oro	Oro	--
+Collar de Mani	LaCofradia	CFD-159-170-CollardeMani	--	--	--	Oro	Oro	--
+Cripta	LaCofradia	CFD-160-170-Cripta	--	--	--	Oro	Oro	--
+Diamante Turquesa	LaCofradia	CFD-161-170-DiamanteTurquesa	--	--	--	Oro	Oro	--
+Escudo de Vampiro	LaCofradia	CFD-162-170-EscudodeVampiro	--	--	--	Oro	Oro	--
+Lampara Magica	LaCofradia	CFD-163-170-LamparaMagica	--	--	--	Oro	Oro	--
+Monedas de Oro	LaCofradia	CFD-164-170-MonedasdeOro	--	--	--	Oro	Oro	--
+Nariguera	LaCofradia	CFD-165-170-Nariguera	--	--	--	Oro	Oro	--
+Portal Celestial	LaCofradia	CFD-166-170-PortalCelestial	--	--	--	Oro	Oro	--
+Sortija	LaCofradia	CFD-167-170-Sortija	--	--	--	Oro	Oro	--
+Tenochtitlan	LaCofradia	CFD-168-170-Tenochtitlan	--	--	--	Oro	Oro	--
+Trutruca	LaCofradia	CFD-169-170-Trutruca	--	--	--	Oro	Oro	--
+Uxmal	LaCofradia	CFD-170-170-Uxmal	--	--	--	Oro	Oro	--
+Hotei	EspiritudeDragon	EDR-001-236-Hotei	2	3	Kami	Aliado	Cortesano	Cada Kami gana +1 de fuerza mientras este Aliado este en juego.
+Hoori	EspiritudeDragon	EDR-002-236-Hoori	2	3	Kami	Aliado	Cortesano	Cuando este Aliado entre en juego podras buscar una carta en tu Castillo y ponerla en tu Mano.
+Sarutahiko	EspiritudeDragon	EDR-003-236-Sarutahiko	2	3	Kami	Aliado	Cortesano	Cuando este Aliado entre en juego podras devolver a la Mano de su propietario una carta a tu eleccion (esta carta no afecta Oros en juego).
+Iha Naga	EspiritudeDragon	EDR-004-236-IhaNaga	3	3	Kami	Aliado	Cortesano	Cuando entra en juego, tu oponente destruye un Totem a tu eleccion.
+Hachiman	EspiritudeDragon	EDR-005-236-Hachiman	3	4	Kami	Aliado	Cortesano	Cuando entra en juego envia al Cementerio un Aliado oponente que no porte un Arma, a eleccion.
+Jurojin	EspiritudeDragon	EDR-006-236-Jurojin	2	3	Kami	Aliado	Cortesano	Cuando entra en juego puedes devolver de tu Cementerio a tu Castillo un Campeon.
+Kojin	EspiritudeDragon	EDR-007-236-Kojin	3	3	Kami	Aliado	Cortesano	Destruye este Kami para que tus Aliados ganen +2 a la fuerza por este turno.
+Fukurukujo	EspiritudeDragon	EDR-008-236-Fukurukujo	3	3	Kami	Aliado	Cortesano	Imbloqueable. Cuando se resuelva el dano, y si este Aliado hace dano al Castillo oponente, podras elegir entre descartar dos cartas de la Mano oponente al azar o bien botar las cartas del dano efectuado.
+Okuni Nushi	EspiritudeDragon	EDR-009-236-OkuniNushi	1	3	Kami	Aliado	Cortesano	Por cada Totem que tengas en juego este Kami gana +2 a la fuerza.
+Oho Yama	EspiritudeDragon	EDR-010-236-OhoYama	2	4	Kami	Aliado	Cortesano	Solo puede bloquear. Cuando bloquea gana +3 a la fuerza hasta el final del turno.
+Ninigi no Mikoto	EspiritudeDragon	EDR-011-236-NiniginoMikoto	2	3	Kami	Aliado	Cortesano	En la batalla mitologica otorga 3 Oros virtuales para jugar Talismanes.
+Amatsu Mara	EspiritudeDragon	EDR-012-236-AmatsuMara	3	3	Kami	Aliado	Real	Cuando entra en juego elige un Aliado oponente y cualquier efecto o habilidad que reciba uno de estos Aliados automaticamente lo recibe el otro.
+Sengen	EspiritudeDragon	EDR-013-236-Sengen	4	4	Kami	Aliado	Real	Cuando entra en juego este Kami, puedes tomar hasta 8 cartas de tu Mano y barajarlas con tu Castillo, para luego robar el mismo numero de cartas.
+Inari	EspiritudeDragon	EDR-014-236-Inari	3	3	Kami	Aliado	Real	Puedes descartarte de una carta de tu Mano y este Aliado gana un bono de fuerza igual al coste en Oro de la carta descartada. Una vez por turno.
+Susano Wa	EspiritudeDragon	EDR-015-236-SusanoWa	6	6	Kami	Aliado	Real	Imbloqueable. No tiene limite de Armas.
+Ryujin	EspiritudeDragon	EDR-016-236-Ryujin	5	4	Kami	Aliado	Real	Mientras este en juego todos tus Kami ganan +1 de fuerza y pueden bloquear hasta dos Aliados oponentes.
+Izanami	EspiritudeDragon	EDR-017-236-Izanami	4	3	Kami	Aliado	Real	Mientras este Kami este en juego, tus demas Kami no pueden ser afectados por Talismanes en batalla mitologica.
+Kagutsuchi	EspiritudeDragon	EDR-018-236-Kagutsuchi	4	2	Kami	Aliado	Real	Para entrar en juego debes descartar una carta de tu Mano.
+Bishamon	EspiritudeDragon	EDR-019-236-Bishamon	4	4	Kami	Aliado	Real	Por cada Kami que tengas en juego gana +1 a la fuerza.
+Benten	EspiritudeDragon	EDR-020-236-Benten	4	4	Kami	Aliado	Real	Todos tus Kami despues de atacar vuelven a la linea de defensa, mientras este en juego este Aliado.
+Raiden	EspiritudeDragon	EDR-021-236-Raiden	0	4	Kami	Aliado	Real	Todos tus turnos gana +2 a la fuerza permanentemente.
+Amateratsu	EspiritudeDragon	EDR-022-236-Amateratsu	3	3	Kami	Aliado	Real	Una vez en tu turno y en la fase de reagrupar podras barajar una carta de tu Cementerio con tu Castillo.
+Daikoku	EspiritudeDragon	EDR-023-236-Daikoku	1	2	Kami	Aliado	Vasallo	Hasta dos veces por turno toma un Talisman de tu Mano y barajalo con tu Castillo, luego roba dos cartas de tu Castillo.
+Hoderi	EspiritudeDragon	EDR-024-236-Hoderi	2	2	Kami	Aliado	Vasallo	En respuesta a un ataque oponente. Cuando asignes a tus Aliados defensores y este Aliado este en la linea de ataque, este puede volver a la linea de defensa para ser asignado como defensor.
+Momotaro	EspiritudeDragon	EDR-025-236-Momotaro	1	2	Campeon	Aliado	Vasallo	Cuando entra en juego podras verle la Mano a tu oponente.
+Fujin	EspiritudeDragon	EDR-026-236-Fujin	1	2	Kami	Aliado	Vasallo	Cuando entra en juego puedes destruir cualquier Arma en juego, luego puedes robar una carta.
+Uzume	EspiritudeDragon	EDR-027-236-Uzume	1	1	Kami	Aliado	Vasallo	Cuando entre en juego elige un Totem oponente y este es barajado en su Mazo Castillo.
+Suku Na Biko	EspiritudeDragon	EDR-028-236-SukuNaBiko	1	2	Kami	Aliado	Vasallo	Descarta una carta de tu Mano para que este Aliado gane +2 de fuerza por este turno.
+Da Yu	EspiritudeDragon	EDR-029-236-DaYu	1	1	Campeon	Aliado	Vasallo	Puede bloquear a mas de un Aliado.
+Izanagi	EspiritudeDragon	EDR-030-236-Izanagi	2	2	Kami	Aliado	Vasallo	Puede portar mas de un Arma. Siempre que se le juegue un Arma podras robar una carta de tu Castillo.
+Raiko	EspiritudeDragon	EDR-031-236-Raiko	1	1	Campeon Samurai	Aliado	Vasallo	Puede portar mas de un Arma.
+Tsuki Yumi	EspiritudeDragon	EDR-032-236-TsukiYumi	1	2	Kami	Aliado	Vasallo	Puedes destruir este Kami para darle a otro Aliado un bono de fuerza igual a la fuerza de este Kami.
+Ebisu	EspiritudeDragon	EDR-033-236-Ebisu	0	2	Kami	Aliado	Vasallo	Si este Kami esta en juego podras robar hasta dos cartas mas al final del turno.
+San Xing	EspiritudeDragon	EDR-034-236-SanXing	1	1	Xian	Aliado	Vasallo	Si tienes a mas de tres Xian en juego esta carta es imbloqueable.
+Huang Fei Hu	EspiritudeDragon	EDR-035-236-HuangFeiHu	2	2	Xian	Aliado	Vasallo	Cuando entra en juego pasa al control de tu oponente; durante cada turno su controlador bota una carta de su Castillo.
+Huang Di	EspiritudeDragon	EDR-036-236-HuangDi	1	1	Campeon	Aliado	Vasallo	Cuando entra en juego podras ver las tres siguientes cartas de cualquier Castillo y ordenarlas como quieras.
+Li Tien	EspiritudeDragon	EDR-037-236-LiTien	1	2	Campeon	Aliado	Vasallo	Cuando entra en juego puedes buscar hasta tres Talismanes en tu Cementerio y barajarlos con tu Castillo.
+Yu Ren	EspiritudeDragon	EDR-038-236-YuRen	0	2	Xian	Aliado	Vasallo	Cuando entra en juego busca un Xian en tu Cementerio y ponlo en tu Mano.
+Lan Cai He	EspiritudeDragon	EDR-039-236-LanCaiHe	1	2	Xian	Aliado	Vasallo	Destruye este Xian para que un Aliado atacante vuelva a la linea de defensa.
+Lao Tse	EspiritudeDragon	EDR-040-236-LaoTse	0	2	Xian	Aliado	Vasallo	Este Xian tendra tanta fuerza como el Aliado que mas fuerza tengas en juego.
+Yuan Shueh	EspiritudeDragon	EDR-041-236-YuanShueh	1	2	Campeon Shaolin	Aliado	Vasallo	Paga uno de Oro y un Aliado oponente pierde 1 de fuerza una vez por turno.
+Niu Wa	EspiritudeDragon	EDR-042-236-NiuWa	3	0	Xian	Aliado	Vasallo	Para que ataque descarta dos cartas de tu Mano.
+Cai Shen	EspiritudeDragon	EDR-043-236-CaiShen	2	1	Xian	Aliado	Vasallo	Si este Aliado es destruido barajalo en tu Castillo.
+Fu Xi	EspiritudeDragon	EDR-044-236-FuXi	3	3	Xian	Aliado	Real	Una vez en tu turno, cuando reagrupes busca dos Talismanes identicos en tu Mazo Castillo y ponlos en tu Mano.
+Sha Heshang	EspiritudeDragon	EDR-045-236-ShaHeshang	2	2	Xian	Aliado	Real	Cuando entra en juego puedes elegir de tu oponente una carta de Aliado de fuerza 2 o menos y barajala en su Mazo.
+Guan Ti	EspiritudeDragon	EDR-046-236-GuanTi	5	5	Xian	Aliado	Real	Cuando entra en juego puedes elegir de tu oponente una carta de Aliado de fuerza 6 o menos y barajarla en su Mazo; luego tu oponente se descarta de una carta de su Mano.
+Heng-O	EspiritudeDragon	EDR-047-236-Heng-O	4	3	Xian	Aliado	Real	Cuando juegues este Xian puedes poner hasta 5 cartas debajo de este Aliado y podras jugarlas como si estuvieran en tu Mano.
+Wang Mu Niang Niang	EspiritudeDragon	EDR-048-236-WangMuNiangNiang	3	4	Xian	Aliado	Real	Destruye este Xian para destruir a todos los Aliados que tengan la misma fuerza que el.
+He Xian Gu	EspiritudeDragon	EDR-049-236-HeXianGu	4	4	Xian	Aliado	Real	En batalla mitologica puedes descartar una carta de tu Castillo para que este Aliado sea imbloqueable.
+Fan Kui	EspiritudeDragon	EDR-050-236-FanKui	5	5	Xian	Aliado	Real	Despues de reagrupar puedes ver la Mano de tu oponente o pagar uno de Oro para buscar una carta de Oro de tu Mazo Castillo y ponerla en tu Mano.
+Lei Kung	EspiritudeDragon	EDR-051-236-LeiKung	0	4	Xian	Aliado	Real	Antes de entrar en juego nombra un Xian que tengas en juego y este entra en juego como dicho Xian.
+Shen Yi	EspiritudeDragon	EDR-052-236-ShenYi	1	1	Xian	Aliado	Real	Cuando entra en juego, busca una carta en el Castillo oponente que no sea un Oro y destierrala.
+Sun Wu Kung	EspiritudeDragon	EDR-053-236-SunWuKung	1	4	Xian	Aliado	Real	Una vez por turno cada vez que bloquee a un Aliado oponente paga uno de Oro y este Xian tendra uno mas de fuerza que el Aliado que esta atacando.
+Lu Dong Pin	EspiritudeDragon	EDR-054-236-LuDongPin	2	3	Xian	Aliado	Real	Una vez por turno paga un Oro y una carta en juego pierde todas sus habilidades por este turno.
+Panku	EspiritudeDragon	EDR-055-236-Panku	3	4	Xian	Aliado	Cortesano	Cuando entra en juego este Xian tendra la habilidad de un Totem que este en tu linea de apoyo por el resto del juego.
+Men Shen	EspiritudeDragon	EDR-056-236-MenShen	2	4	Xian	Aliado	Cortesano	Cuando entra en juego puedes elegir de tu oponente una carta de oro con habilidad y barajarla en su Mazo.
+Kuei Xing	EspiritudeDragon	EDR-057-236-KueiXing	3	3	Xian	Aliado	Cortesano	Cuando entra en juego, tu oponente sube a su Mano una carta de Aliado en juego que tu elijas.
+Zhang Guo Lao	EspiritudeDragon	EDR-058-236-ZhangGuoLao	4	4	Xian	Aliado	Cortesano	Cuando este Xian entra en juego tu oponente sube a su Mano dos cartas que tenga en juego.
+Han Xiang Zi	EspiritudeDragon	EDR-059-236-HanXiangZi	2	2	Xian	Aliado	Cortesano	En batalla mitologica genera tres Oros virtuales para jugar Talismanes.
+Zhong Kui	EspiritudeDragon	EDR-060-236-ZhongKui	1	3	Xian	Aliado	Cortesano	Este Xian puede bloquear a dos Aliados a la vez y recibe todo el dano del ataque de tu oponente. Puedes descartar tres cartas de tu Castillo para que este Aliado no reciba dano en combate.
+Tsao Guojiu	EspiritudeDragon	EDR-061-236-TsaoGuojiu	3	3	Xian	Aliado	Cortesano	Cuando entra en juego este Xian tendra la habilidad de uno de tus Oros en juego permanentemente.
+Han Zhongli	EspiritudeDragon	EDR-062-236-HanZhongli	2	3	Xian	Aliado	Cortesano	Cuando entra en juego nombra una carta que no sea un Oro. Tu oponente muestra su Mano y se descarta de esa carta.
+Tien Mu	EspiritudeDragon	EDR-063-236-TienMu	3	2	Xian	Aliado	Cortesano	Para entrar en juego tu oponente se descarta de dos cartas de su Mano o bota una de su Castillo.
+Yu Huang	EspiritudeDragon	EDR-064-236-YuHuang	2	3	Xian	Aliado	Cortesano	Por cada Xian en juego, te cuesta uno menos de Oro jugar a este Xian.
+Li Tie Guai	EspiritudeDragon	EDR-065-236-LiTieGuai	2	2	Xian	Aliado	Cortesano	Si es bloqueado, tu oponente se descarta de dos cartas de su Mano.
+Baije	EspiritudeDragon	EDR-066-236-Baije	1	2	Xian	Aliado	Vasallo	Cuando entra en juego puedes verle la Mano a tu oponente.
+Mono de Hierro	EspiritudeDragon	EDR-067-236-MonodeHierro	0	3	Campeon Shaolin	Aliado	Cortesano	Cada vez que no sea bloqueado este Aliado, tu oponente se descarta de tres cartas.
+Yama Bushi	EspiritudeDragon	EDR-068-236-YamaBushi	3	3	Campeon	Aliado	Cortesano	Cuando entra en juego puedes devolver de tu Cementerio a tu Castillo un Campeon. Luego baraja tu Castillo.
+Nemuri Kyoshiro	EspiritudeDragon	EDR-069-236-NemuriKyoshiro	2	3	Campeon Samurai	Aliado	Cortesano	Mientras este Campeon este en juego todos tus demas Campeones ganan +1 de fuerza.
+Huang Zhong	EspiritudeDragon	EDR-070-236-HuangZhong	3	2	Campeon	Aliado	Cortesano	Mientras este en juego este Campeon, tus demas Campeones no seran afectados por Talismanes en batalla mitologica.
+Zato Ichi	EspiritudeDragon	EDR-071-236-ZatoIchi	3	3	Campeon Samurai	Aliado	Cortesano	Al final de tu turno, si todos los Aliados que tienes en juego no son Campeones destruye este Aliado.
+Lin Kuei	EspiritudeDragon	EDR-072-236-LinKuei	2	3	Campeon Shaolin	Aliado	Cortesano	Al final de tu turno si este Campeon esta en juego podras robar una carta extra.
+Geisha	EspiritudeDragon	EDR-073-236-Geisha	1	3	Campeon	Aliado	Cortesano	Cada turno que no sea declarado atacante, tu oponente elige entre descartarse de una carta de su Mano o botar de su Castillo una carta.
+Ma Chao	EspiritudeDragon	EDR-074-236-MaChao	1	4	Campeon	Aliado	Cortesano	Paga tres de Oro y un Aliado oponente no podra utilizar sus habilidades de texto en batalla mitologica.
+Shiro Amakusa	EspiritudeDragon	EDR-075-236-ShiroAmakusa	2	2	Campeon Samurai	Aliado	Cortesano	Destruye un Aliado para anular la habilidad jugada por un aliado oponente.
+Cao Cao	EspiritudeDragon	EDR-076-236-CaoCao	2	2	Campeon	Aliado	Cortesano	Puede bloquear a dos Aliados atacantes.
+Kunoichi	EspiritudeDragon	EDR-077-236-Kunoichi	3	3	Campeon Ninja	Aliado	Cortesano	Cuando asignes el bloqueo, paga uno de Oro y bloquea a un Aliado extra.
+Guan Yu	EspiritudeDragon	EDR-078-236-GuanYu	2	3	Campeon	Aliado	Real	Cuando entra en juego tus demas Campeones ganan +2 a la fuerza por el resto del juego.
+Liu Bei	EspiritudeDragon	EDR-079-236-LiuBei	4	4	Campeon	Aliado	Real	Cuando entra en juego toma las tres cartas superiores de tu cementerio y barajalas con tu Castillo.
+Yagyu Jubei	EspiritudeDragon	EDR-080-236-YagyuJubei	2	2	Campeon Samurai	Aliado	Real	Puede portar dos Katanas; si lo hace es imbloqueable.
+Hattori Hanzo	EspiritudeDragon	EDR-081-236-HattoriHanzo	2	2	Campeon Ninja	Aliado	Real	Cuando entra en juego elige entre buscar un Campeon en tu Castillo o robar dos cartas de tu Castillo.
+Zhang Fei	EspiritudeDragon	EDR-082-236-ZhangFei	4	3	Campeon	Aliado	Real	Puede bloquear cartas imbloqueables.
+Tammo	EspiritudeDragon	EDR-083-236-Tammo	3	4	Campeon	Aliado	Real	Mientras este Campeon este en juego todos los Talismanes que se jueguen seran desterrados.
+Miyamoto Musashi	EspiritudeDragon	EDR-084-236-MiyamotoMusashi	3	3	Campeon Samurai	Aliado	Real	Puede portar dos Katanas; si lo hace es imbloqueable.
+Hua Mu Lan	EspiritudeDragon	EDR-085-236-HuaMuLan	3	3	Campeon	Aliado	Real	Si ataca gana +2 a la fuerza hasta el final del turno.
+Tomoe Gozen	EspiritudeDragon	EDR-086-236-TomoeGozen	5	3	Campeon Samurai	Aliado	Real	Para que pueda atacar paga dos de Oro.
+Sasaki Kojiro	EspiritudeDragon	EDR-087-236-SasakiKojiro	2	4	Campeon Samurai	Aliado	Real	Paga uno de Oro y destruye un Aliado oponente que sea Imbloqueable.
+13 Heroes Shaolin	EspiritudeDragon	EDR-088-236-13HeroesShaolin	4	4	Campeon Shaolin	Aliado	Real	Cuando entra en juego elige un nivel de fuerza; los Aliados oponentes que tengan esa fuerza no podran bloquear a este Campeon. Esta carta no se considera imbloqueable.
+Benkei	EspiritudeDragon	EDR-089-236-Benkei	1	1	Campeon Samurai	Aliado	Vasallo	Destruye este Campeon y un Campeon que tengas en juego no recibe dano en este turno.
+Zhao Yun	EspiritudeDragon	EDR-090-236-ZhaoYun	0	1	Campeon	Aliado	Vasallo	Puede atacar cuando entra en juego.
+Jimmu Tenno	EspiritudeDragon	EDR-091-236-JimmuTenno	1	1	Campeon	Aliado	Vasallo	Paga tres Oro y gana +1 de fuerza.
+Pa Yu Feng	EspiritudeDragon	EDR-092-236-PaYuFeng	1	1	Campeon Shaolin	Aliado	Vasallo	Si este Campeon es destruido reagrupas un Oro.
+47 Ronin	EspiritudeDragon	EDR-093-236-47Ronin	1	1	Campeon Samurai	Aliado	Vasallo	Cuando entra en juego, este Campeon busca otro Campeon igual a este en tu Castillo y ponlo en juego.
+Nomi No Sukune	EspiritudeDragon	EDR-094-236-NomiNoSukune	1	1	Campeon	Aliado	Vasallo	Si es destruido en combate es desterrado.
+Shue Yuen	EspiritudeDragon	EDR-095-236-ShueYuen	1	3	Campeon Shaolin	Aliado	Vasallo	Una vez por turno copia la habilidad de un Campeon Shaolin en juego.
+Li Sou	EspiritudeDragon	EDR-096-236-LiSou	1	2	Campeon Shaolin	Aliado	Vasallo	Gana +1 a la fuerza por cada Campeon Shaolin en juego.
+Bai Yu Feng	EspiritudeDragon	EDR-097-236-BaiYuFeng	1	1	Campeon Shaolin	Aliado	Vasallo	Si hace dano al Mazo Castillo oponente destierra 3 cartas a eleccion del Cementerio oponente.
+Shinobi	EspiritudeDragon	EDR-098-236-Shinobi	0	1	Campeon Ninja	Aliado	Vasallo	Cuando entra en juego busca un Arma en tu Mazo Castillo y ponla en tu Mano.
+Wong Fei Hung	EspiritudeDragon	EDR-099-236-WongFeiHung	1	1	Campeon Shaolin	Aliado	Vasallo	Destierra este Aliado y todos tus Aliados en juego ganan +1 de fuerza por este turno.
+Gallo Celestial	EspiritudeDragon	EDR-100-236-GalloCelestial	2	3	Criaturas	Aliado	Cortesano	Cuando entra en juego podras barajar en tu Castillo hasta dos Aliados de tu Cementerio. Luego baraja tu Castillo.
+Oni	EspiritudeDragon	EDR-101-236-Oni	3	2	Criaturas	Aliado	Cortesano	Cuando entra en juego puedes buscar una copia de esta Criatura en tu Castillo o Cementerio y ponerla en tu Mano.
+Geon Si	EspiritudeDragon	EDR-102-236-GeonSi	3	2	Criaturas	Aliado	Cortesano	Puedes destruir esta Aliado para barajar en su Castillo un Aliado oponente en juego.
+Cienpies	EspiritudeDragon	EDR-103-236-Cienpies	2	2	Criaturas	Aliado	Cortesano	Puedes destruir este Aliado para darle +3 a la fuerza a un Aliado en juego.
+Bruja de la Montana	EspiritudeDragon	EDR-104-236-BrujadelaMontana	2	2	Criaturas	Aliado	Cortesano	Si hace dano al Mazo Castillo oponente, puedes robar una carta.
+Xing Tien	EspiritudeDragon	EDR-105-236-XingTien	2	2	Criaturas	Aliado	Cortesano	Paga tres Oro y gana +1 de fuerza permanentemente.
+Ninyo	EspiritudeDragon	EDR-106-236-Ninyo	4	3	Criaturas	Aliado	Cortesano	En batalla mitologica destruye este Aliado para que todas tus demas Criaturas ganen +2 a la fuerza por este turno.
+Konaki Jiji	EspiritudeDragon	EDR-107-236-KonakiJiji	2	1	Criaturas	Aliado	Cortesano	Cada vez que ataque puedes robar una carta de tu Castillo.
+Gui	EspiritudeDragon	EDR-108-236-Gui	2	3	Criaturas	Aliado	Cortesano	Si es bloqueado roba una carta de tu Castillo.
+Kappa	EspiritudeDragon	EDR-109-236-Kappa	2	2	Criaturas	Aliado	Cortesano	Si es destruido destierra tres cartas del Cementerio oponente que tu elijas.
+Lung	EspiritudeDragon	EDR-110-236-Lung	4	4	Criaturas	Aliado	Real	En batalla mitologica genera dos Oros virtuales para jugar habilidades de Criaturas.
+Gui Xian	EspiritudeDragon	EDR-111-236-GuiXian	0	3	Criaturas	Aliado	Real	Imbloqueable, cuando entra en juego puedes buscar una copia de esta Criatura del Cementerio o Castillo y ponerla en juego.
+Fu	EspiritudeDragon	EDR-112-236-Fu	6	5	Criaturas	Aliado	Real	Mientras este Aliado este en juego siempre que juegues una Criatura descarta una carta al azar de la Mano de tu oponente.
+Baku	EspiritudeDragon	EDR-113-236-Baku	5	3	Criaturas	Aliado	Real	No puede bloquear.
+Feng-Huang	EspiritudeDragon	EDR-114-236-Feng-Huang	4	4	Criaturas	Aliado	Real	En batalla mitologica paga uno de Oro hasta dos veces y baraja con tu Castillo la carta que desees de tu Cementerio.
+Tchi Yeu	EspiritudeDragon	EDR-115-236-TchiYeu	5	2	Criaturas	Aliado	Real	Para atacar paga 1 de Oro.
+Kitsune	EspiritudeDragon	EDR-116-236-Kitsune	4	3	Criaturas	Aliado	Real	Si ataca y no es bloqueada mira la Mano de tu oponente.
+Yosei	EspiritudeDragon	EDR-117-236-Yosei	5	5	Criaturas	Aliado	Real	Paga dos de Oro y un Aliado bajo tu control sera imbloqueable por este turno.
+Tanuki	EspiritudeDragon	EDR-118-236-Tanuki	4	4	Criaturas	Aliado	Real	Una vez por turno y en tu fase de reagrupar, baraja una carta de tu Cementerio con tu Castillo o roba una carta de tu Mazo Castillo.
+Chiang Shih	EspiritudeDragon	EDR-119-236-Chiang Shih	3	3	Criaturas	Aliado	Real	Paga uno de Oro y este Aliado gana +1 de fuerza.
+Serpiente Blanca	EspiritudeDragon	EDR-120-236-SerpienteBlanca	1	2	Criaturas	Aliado	Vasallo	Destruye esta carta y una Criatura que tengas en juego no recibe dano en este turno.
+Kilin	EspiritudeDragon	EDR-121-236-Kilin	1	2	Criaturas	Aliado	Vasallo	Paga uno de Oro en batalla mitologica y mira la Mano de tu oponente.
+Yurei	EspiritudeDragon	EDR-122-236-Yurei	2	2	Criaturas	Aliado	Vasallo	Si es destruido roba una carta.
+Kong Kong	EspiritudeDragon	EDR-123-236-KongKong	1	2	Criaturas	Aliado	Vasallo	Siempre que ataque, tus Criaturas ganan un +1 de fuerza por el turno.
+Nurikabe	EspiritudeDragon	EDR-124-236-Nurikabe	2	1	Criaturas	Aliado	Vasallo	Solo puede bloquear.
+Tengu	EspiritudeDragon	EDR-125-236-Tengu	2	1	Criaturas	Aliado	Vasallo	Solo puede ser asignado como atacante si lo acompanan dos Aliados.
+Grulla	EspiritudeDragon	EDR-126-236-Grulla	1	2	Criaturas	Aliado	Vasallo	Cuando entra en juego paga uno de Oro y puede atacar de inmediato.
+Isun Boshi	EspiritudeDragon	EDR-127-236-IsunBoshi	1	2	Campeon	Aliado	Vasallo	Si es destruido mira la Mano de tu oponente.
+Rukuru Kubi	EspiritudeDragon	EDR-128-236-RukuruKubi	2	1	Criaturas	Aliado	Vasallo	Despues de atacar vuelve a la linea de defensa.
+Shachihoko	EspiritudeDragon	EDR-129-236-Shachihoko	1	2	Criaturas	Aliado	Vasallo	Puede atacar cuando entra en juego.
+Jujitsu	EspiritudeDragon	EDR-130-236-Jujitsu	--	2	--	Talisman	Cortesano	Anulas una carta jugada por tu oponente, a menos que este se descarte de dos cartas de su Castillo.
+Bushido	EspiritudeDragon	EDR-131-236-Bushido	--	3	--	Talisman	Cortesano	Cada uno de tus Aliados gana por este turno un bono de fuerza igual al numero de cartas que tengas en tu Mano.
+Kayakujutsu	EspiritudeDragon	EDR-132-236-Kayakujutsu	--	3	--	Talisman	Cortesano	Elige un Oro oponente, este pierde todas sus habilidades de texto y luego destruyelo.
+Feng Shui	EspiritudeDragon	EDR-133-236-FengShui	--	3	--	Talisman	Cortesano	Senala tres cartas de tu oponente en juego, dos que permanecen en juego y la otra va al Cementerio.
+Dokuenjutsu	EspiritudeDragon	EDR-134-236-Dokuenjutsu	--	3	--	Talisman	Cortesano	Tu oponente manda al Cementerio dos cartas que tenga en juego.
+Kawarimi	EspiritudeDragon	EDR-135-236-Kawarimi	--	3	--	Talisman	Cortesano	En respuesta a declarar un ataque, juega esta carta y cancelas todo el ataque de tu oponente.
+Chi Kung	EspiritudeDragon	EDR-136-236-ChiKung	--	3	--	Talisman	Cortesano	En respuesta a declarar a un Aliado atacante en juego, juega esta carta y cancela su habilidad de texto por este turno.
+Pak Hok Cha	EspiritudeDragon	EDR-137-236-PakHokCha	--	3	--	Talisman	Cortesano	Por este turno el siguiente Talisman que se juegue sera anulado.
+Marca del Tigre	EspiritudeDragon	EDR-138-236-MarcadelTigre	--	3	--	Talisman	Cortesano	Juega este Talisman en respuesta a que una carta oponente utilice su habilidad de texto. La cancelas por este turno.
+Sepukku	EspiritudeDragon	EDR-139-236-Sepukku	--	3	--	Talisman	Cortesano	Busca una carta de Aliado en el Castillo oponente y destierrala.
+Kyudo	EspiritudeDragon	EDR-140-236-Kyudo	--	3	--	Talisman	Cortesano	Roba tres cartas de tu Castillo, muestralas a tu oponente y este destierra dos de esas cartas y la otra queda en tu Mano.
+Asesino del Emperador	EspiritudeDragon	EDR-141-236-AsesinodelEmperador	--	3	--	Talisman	Cortesano	En respuesta a jugar un Aliado, este se considera imbloqueable, puede atacar en este turno y es destruido al final del turno.
+Pao Chuan Fa	EspiritudeDragon	EDR-142-236-PaoChuanFa	--	3	--	Talisman	Cortesano	En respuesta a que tu declares un ataque, el siguiente Talisman que juegue tu oponente en este turno sera anulado.
+Kage Aruki Jutsu	EspiritudeDragon	EDR-143-236-KageArukiJutsu	--	3	--	Talisman	Cortesano	Juega esta carta en respuesta a que tu oponente juegue un Aliado, descarta una carta de tu oponente al azar.
+Saimin no Jutsu	EspiritudeDragon	EDR-144-236-SaiminnoJutsu	--	3	--	Talisman	Cortesano	En el proximo turno tu oponente no podra atacar, luego podras robar una carta de tu Castillo.
+Kibidango	EspiritudeDragon	EDR-145-236-Kibidango	--	3	--	Talisman	Cortesano	Un Aliado en juego iguala su fuerza con su valor de Oro.
+Iaido	EspiritudeDragon	EDR-146-236-Iaido	--	3	--	Talisman	Cortesano	Destruye un Arma a tu eleccion.
+Okinawa Te	EspiritudeDragon	EDR-147-236-OkinawaTe	--	3	--	Talisman	Cortesano	En respuesta a que un Aliado oponente gane un bono de fuerza, cancelas ese efecto por este turno.
+Kendo	EspiritudeDragon	EDR-148-236-Kendo	--	3	--	Talisman	Cortesano	Tu oponente destruye un Aliado con fuerza mayor a su valor de Oro.
+Saku Arai	EspiritudeDragon	EDR-149-236-SakuArai	--	3	--	Talisman	Cortesano	Duplica la fuerza de un Arma para un Aliado bajo tu control por este turno.
+Niten Ichi Ryu	EspiritudeDragon	EDR-150-236-NitenIchiRyu	--	5	--	Talisman	Real	Al jugar este Talisman tu eliges entre destruir todos los Aliados en juego o que todos los jugadores se descarten de su Mano.
+Acupuntura	EspiritudeDragon	EDR-151-236-Acupuntura	--	4	--	Talisman	Real	Puedes barajar de tu Cementerio con tu Castillo tantas cartas como Oros tenga tu oponente en juego.
+Descubrir al Zorro	EspiritudeDragon	EDR-152-236-DescubriralZorro	--	0	--	Talisman	Real	Juega esta carta en respuesta a que entre en juego un Aliado oponente que afecte los Oros. Este Aliado entrara en juego sin su habilidad.
+I Ching	EspiritudeDragon	EDR-153-236-Iching	--	1	--	Talisman	Real	Si tienes en juego un Xian busca un Talisman en tu Castillo, muestralo a tu oponente y ponlo en tu Mano.
+Tche Ma Tien	EspiritudeDragon	EDR-154-236-TcheMaTien	--	5	--	Talisman	Real	En respuesta a si durante el juego tienes, despues de resolverse, el dano en tu Castillo, menos de 3 cartas, baraja tu Cementerio con tu Castillo.
+Kage Bun Shin No Jutsu	EspiritudeDragon	EDR-155-236-KageBunShinNoJutsu	--	2	--	Talisman	Real	Si todos tus Aliados en juego son de la misma raza son imbloqueables por este turno.
+Lung Chuan-Fa	EspiritudeDragon	EDR-156-236-LungChuan-Fa	--	4	--	Talisman	Real	Todas tus cartas pueden bloquear cartas imbloqueables y ganan +2 a la fuerza por este turno.
+Tecnica de un Dedo	EspiritudeDragon	EDR-157-236-TecnicadeunDedo	--	4	--	Talisman	Real	Todo el dano que recibiria tu Castillo lo recibe un Aliado que tengas en juego.
+Yabusame	EspiritudeDragon	EDR-158-236-Yabusame	--	4	--	Talisman	Real	Tu oponente bota de su Castillo las cuatro cartas superiores. Este Talisman no puede ser anulado.
+Kitsune-Tsuki	EspiritudeDragon	EDR-159-236-Kitsune-Tsuki	--	5	--	Talisman	Real	Tu oponente bota de su Mazo tantas cartas como cartas de Oro tenga en juego.
+Ken Nage	EspiritudeDragon	EDR-160-236-KenNage	--	6	--	Talisman	Real	Tu oponente se descarta de toda su Mano (unica).
+Fu Chuan-Fa	EspiritudeDragon	EDR-161-236-FuChuan-Fa	--	3	--	Talisman	Real	Por este turno, un Aliado en juego gana +1 de fuerza por cada carta de Oro que tengas en juego.
+Yingzhao Chuan-Fa	EspiritudeDragon	EDR-162-236-YingzhaoChuan-Fa	--	6	--	Talisman	Real	Juegas un turno extra o destruye dos cartas oponentes en juego a tu eleccion.
+Tradicion Viva	EspiritudeDragon	EDR-163-236-TradicionViva	--	6	--	Talisman	Real	La siguiente carta que juegues tendra costo cero y no podra ser anulada.
+Banquete Japones	EspiritudeDragon	EDR-164-236-BanqueteJapones	--	1	--	Talisman	Real	Una carta de Oro genera el doble por este turno.
+Viaje al Oeste	EspiritudeDragon	EDR-165-236-ViajealOeste	--	2	--	Talisman	Real	Descarta una carta de tu Mano para que tu oponente se descarte de dos cartas de su Mano; esta carta no puede ser anulada.
+Tang Lang Chuan-Fa	EspiritudeDragon	EDR-166-236-TangLangChuan-Fa	--	3	--	Talisman	Real	Al terminar este turno si no atacas bota 4 cartas del Castillo oponente.
+Ge Xiang Weng	EspiritudeDragon	EDR-167-236-GeXiangWeng	--	3	--	Talisman	Real	En respuesta a jugar un Talisman, evitas que este vaya al Cementerio despues de ser jugado. Este Talisman no puede ser nuevamente jugado en este turno.
+Palma de Hierro	EspiritudeDragon	EDR-168-236-PalmadeHierro	--	2	--	Talisman	Real	Busca una carta en el Castillo oponente que no sea oro y destierrala.
+Kage Gakure Jutsu	EspiritudeDragon	EDR-169-236-KageGakureJutsu	--	4	--	Talisman	Real	Busca dos cartas en el Castillo oponente y destierralas, luego roba una carta.
+Banquete Chino	EspiritudeDragon	EDR-170-236-BanqueteChino	--	2	--	Talisman	Vasallo	Busca dos cartas de Oro en tu Cementerio y barajalas con tu Castillo.
+Cha No Yu	EspiritudeDragon	EDR-171-236-ChaNoYu	--	4	--	Talisman	Vasallo	Devuelve un Oro a eleccion a la Mano de tu oponente.
+Kyusho	EspiritudeDragon	EDR-172-236-Kyusho	--	3	--	Talisman	Vasallo	Mira la Mano de tu oponente y descarta una carta de su Mano que no sea un Oro.
+Sake	EspiritudeDragon	EDR-173-236-Sake	--	0	--	Talisman	Vasallo	Puedes robar una carta extra al final del turno.
+Nukewaza	EspiritudeDragon	EDR-174-236-Nukewaza	--	5	--	Talisman	Vasallo	Si en el turno anterior fuiste atacado, tu oponente bota de su Castillo tantas cartas como Aliados te hayan atacado.
+Marca de Dragon	EspiritudeDragon	EDR-175-236-MarcadeDragon	--	4	--	Talisman	Vasallo	Si tienes en juego un Campeon busca un Arma en tu Castillo y ponla en tu Mano.
+Zui Chuan Fa	EspiritudeDragon	EDR-176-236-ZuiChuanFa	--	4	--	Talisman	Vasallo	Si todos los Aliados atacantes no llevan Armas, no recibes dano en este turno.
+Dispositivo Espinoso	EspiritudeDragon	EDR-177-236-DispositivoEspinoso	--	7	--	Talisman	Vasallo	Tu destruyes dos cartas de Oro a eleccion.
+Vencer sin Luchar	EspiritudeDragon	EDR-178-236-VencersinLuchar	--	4	--	Talisman	Vasallo	Tu oponente debe elegir entre mandar un Aliado al Cementerio o un Oro que tenga en juego.
+Tecnica de la Media Luna	EspiritudeDragon	EDR-179-236-TecnicadelaMediaLuna	--	4	--	Talisman	Vasallo	Destruye un Aliado oponente a tu eleccion.
+Hombres de Madera	EspiritudeDragon	EDR-180-236-HombresdeMadera	--	0	--	Talisman	Vasallo	Un Aliado gana +1 de fuerza por este turno.
+She Chuan Fa	EspiritudeDragon	EDR-181-236-SheChuanFa	--	3	--	Talisman	Vasallo	En respuesta a que un Aliado vaya al Cementerio, este es desterrado.
+Entrenamiento en Pilares	EspiritudeDragon	EDR-182-236-EntrenamientoenPilares	--	0	--	Talisman	Vasallo	Roba dos cartas de tu Castillo y descarta dos cartas de tu Mano.
+Duelo de Espadas	EspiritudeDragon	EDR-183-236-DuelodeEspadas	--	2	--	Talisman	Vasallo	Busca un Arma en tu Castillo y luego descarta dos cartas de tu Mano.
+Kamasama No Jutsu	EspiritudeDragon	EDR-184-236-KamasamaNoJutsu	--	4	--	Talisman	Vasallo	Destruye una carta bajo tu control y tu oponente destruye una del mismo tipo.
+Entrenar Multitudes	EspiritudeDragon	EDR-185-236-EntrenarMultitudes	--	2	--	Talisman	Vasallo	Si tu oponente no juega mas de tres cartas en el proximo turno, este bota una carta de su Castillo.
+Makimono	EspiritudeDragon	EDR-186-236-Makimono	--	3	--	Talisman	Vasallo	En respuesta a que una carta copie habilidades o se convierta en otra, destruye esa carta.
+Cometa	EspiritudeDragon	EDR-187-236-Cometa	--	2	--	Talisman	Vasallo	Si tu oponente tiene en juego tres cartas de Oro mas que tu, este elige uno de sus Oros y lo destruye.
+Hou Chuan Fa	EspiritudeDragon	EDR-188-236-HouChuanFa	--	1	--	Talisman	Vasallo	Esta carta puede ser anulada si tu oponente paga 1 de Oro; si no es anulada mira la carta superior del castillo oponente.
+Yuki Onna	EspiritudeDragon	EDR-189-236-YukiOnna	2	2	Criaturas	Aliado	Vasallo	Al entrar en juego puede destruir un Arma a tu eleccion.
+Perla de Dragon	EspiritudeDragon	EDR-190-236-PerladeDragon	--	2	--	Talisman	Vasallo	Destruye un Totem a tu eleccion.
+Chien	EspiritudeDragon	EDR-191-236-Chien	--	2	--	Totem	Vasallo	Durante tu fase de reagrupacion busca un Oro en tu Cementerio y barajalo con tu Castillo una vez por turno.
+Kun	EspiritudeDragon	EDR-192-236-Kun	--	3	--	Totem	Vasallo	Descarta una carta de tu Mano y descarta una carta de tu oponente al azar una vez en tu turno.
+Monte Kun Lun	EspiritudeDragon	EDR-193-236-MonteKunLun	--	3	--	Totem	Vasallo	Paga 1 de Oro una vez por turno y destruye un aliado imbloqueable a tu eleccion.
+Pa Kua Tai Chi	EspiritudeDragon	EDR-194-236-PaKuaTaiChi	--	5	--	Totem	Real	Los jugadores no pueden robar cartas al finalizar su turno.
+Kan	EspiritudeDragon	EDR-195-236-Kan	--	4	--	Totem	Real	Los Talismanes que descarten o boten cartas no pueden ser anulados por tu oponente.
+Sun	EspiritudeDragon	EDR-196-236-Sun	--	4	--	Totem	Real	Una vez en tu turno, paga dos de Oro y busca una carta en tu Castillo y ponla en tu Mano. Despues tu oponente bota una carta de su Castillo.
+Li	EspiritudeDragon	EDR-197-236-Li	--	4	--	Totem	Real	Paga tres de Oro y destruye todas las cartas en juego.
+Ken	EspiritudeDragon	EDR-198-236-Ken	--	3	--	Totem	Cortesano	Cada vez que tu oponente se descarte por algun efecto, este se descarta de una carta mas.
+Tui	EspiritudeDragon	EDR-199-236-Tui	--	3	--	Totem	Cortesano	Los Oros oponentes pierden todas sus habilidades de texto.
+Chen	EspiritudeDragon	EDR-200-236-Chen	--	5	--	Totem	Cortesano	Tu oponente al final de cada fase de reagrupacion bota de su Castillo dos cartas.
+Pala de Monje	EspiritudeDragon	EDR-201-236-PaladeMonje	--	3	--	Arma	Cortesano	Cuando juegues esta Arma busca dos Armas en tu Castillo o Cementerio y ponlas en tu Mano.
+Kabuto	EspiritudeDragon	EDR-202-236-Kabuto	--	3	--	Arma	Cortesano	Descarta dos cartas de tu Mano para que este Aliado gane +5 a la fuerza solo por el turno.
+Yoroi	EspiritudeDragon	EDR-203-236-Yoroi	--	3	--	Arma	Cortesano	Su portador gana +2 de fuerza. Descarta esta Arma en batalla mitologica para que los Aliados oponentes vuelvan a la linea de defensa en respuesta a un ataque.
+Sai	EspiritudeDragon	EDR-204-236-Sai	--	2	--	Arma	Cortesano	Puedes destruir esta Arma y tu oponente bota de su Castillo tantas cartas como fuerza tenga este Aliado.
+Bo	EspiritudeDragon	EDR-205-236-Bo	--	3	--	Arma	Cortesano	Esta Arma cuando entra en juego y si su portador es asignado como atacante podras robar una carta de tu Castillo.
+Fu Tao	EspiritudeDragon	EDR-206-236-FuTao	--	3	--	Arma	Cortesano	Su portador pierde 3 a la fuerza.
+Espada Celestial	EspiritudeDragon	EDR-207-236-EspadaCelestial	--	2	--	Arma	Real	Su portador no puede ser bloqueado. Este Aliado no se considera imbloqueable para efectos en juego.
+Kusari Gama	EspiritudeDragon	EDR-208-236-KusariGama	--	2	--	Arma	Real	Quien bloquee este Aliado pierde 5 a la fuerza.
+Shuriken	EspiritudeDragon	EDR-209-236-Shuriken	--	2	--	Arma	Real	Su portador debe atacar todos los turnos o su controlador descarta tres cartas de su Castillo.
+Escudo y Espada	EspiritudeDragon	EDR-210-236-EscudoyEspada	--	3	--	Arma	Real	Su portador gana +1 a la fuerza por cada Arma en juego. Destruye esta Arma antes de jugar un Talisman y este no podra ser anulado; su portador gana +2 a la fuerza permanentemente.
+Katana	EspiritudeDragon	EDR-211-236-Katana	--	3	--	Arma	Real	Si su portador es un Campeon Samurai gana +5 a la fuerza; de no ser asi, su portador gana +2 a la fuerza. Puedes tener mas de 3 copias de esta carta.
+Guan Dao	EspiritudeDragon	EDR-212-236-GuanDao	--	2	--	Arma	Real	Su portador gana +2 a la fuerza. Si este es Guan Yu, ademas una vez por turno pagando 2 de Oro busca una carta en tu Mazo Castillo y ponla en tu Mano.
+Tetsu-Bishi	EspiritudeDragon	EDR-213-236-Tetsu-Bishi	--	2	--	Arma	Real	Su portador tiene fuerza cero.
+Coraza China	EspiritudeDragon	EDR-214-236-CorazaChina	--	3	--	Arma	Cortesano	Este Aliado gana +2 a la fuerza si todos los Aliados que tienes en juego son de la misma raza.
+Gao Jie Bien	EspiritudeDragon	EDR-215-236-GaoJieBien	--	2	--	Arma	Vasallo	Su portador es imbloqueable; al final del turno que ataque destruyelo.
+Martillo Shaolin	EspiritudeDragon	EDR-216-236-MartilloShaolin	--	1	--	Arma	Vasallo	Su portador pierde 1 a la fuerza.
+Nanigata	EspiritudeDragon	EDR-217-236-Nanigata	--	1	--	Arma	Vasallo	Su portador gana +1 a la fuerza.
+Kunai	EspiritudeDragon	EDR-218-236-Kunai	--	2	--	Arma	Vasallo	Su portador gana +2 a la fuerza.
+Shuko	EspiritudeDragon	EDR-219-236-Shuko	--	0	--	Arma	Vasallo	Su portador no puede cambiar de controlador.
+Nunchaku	EspiritudeDragon	EDR-220-236-Nunchaku	--	2	--	Arma	Vasallo	Su portador, cuando bloquee gana +2 de fuerza.
+Gran Muralla	EspiritudeDragon	EDR-221-236-GranMuralla	--	--	--	Oro	Oro	--
+Monedas Imperiales	EspiritudeDragon	EDR-222-236-MonedasImperiales	--	--	--	Oro	Oro	--
+Abaco	EspiritudeDragon	EDR-223-236-Abaco	--	--	--	Oro	Oro	--
+Templo de la Armonia	EspiritudeDragon	EDR-224-236-TemplodelaArmonia	--	--	--	Oro	Oro	--
+Calabaza del Inmortal	EspiritudeDragon	EDR-225-236-CalabazadelInmortal	--	--	--	Oro	Oro	--
+Origami	EspiritudeDragon	EDR-226-236-Origami	--	--	--	Oro	Oro	--
+Teatro Noh No	EspiritudeDragon	EDR-227-236-TeatroNohNo	--	--	--	Oro	Oro	--
+Bonsai	EspiritudeDragon	EDR-228-236-Bonsai	--	--	--	Oro	Oro	--
+Kiku	EspiritudeDragon	EDR-229-236-Kiku	--	--	--	Oro	Oro	--
+Sakura	EspiritudeDragon	EDR-230-236-Sakura	--	--	--	Oro	Oro	--
+Ching His	EspiritudeDragon	EDR-231-236-ChingHis	--	--	--	Oro	Oro	--
+Templo Shaolin	EspiritudeDragon	EDR-232-236-TemploShaolin	--	--	--	Oro	Oro	--
+Yasakani	EspiritudeDragon	EDR-233-236-Yasakani	--	--	--	Oro	Oro	--
+Teatro Kabuki	EspiritudeDragon	EDR-234-236-TeatroKabuki	--	--	--	Oro	Oro	--
+Sello Imperial de Jade	EspiritudeDragon	EDR-235-236-SelloImperialdeJade	--	--	--	Oro	Oro	--
+Go	EspiritudeDragon	EDR-236-236-Go	--	--	--	Oro	Oro	--
+Guardian	MisionSantiago	2001-01-Guardian	2	2	--	Aliado	Promo	Mientras esta carta este en juego tus cartas de Oro no pueden ser destruidas. Si este Guardian es destruido puedes buscar un Oro en tu Cementerio y ponerlo en juego.
+Resplandor Dorado	MisionSantiago	2001-02-ResplandorDorado	--	0	--	Talisman	Promo	Otorga 2 Oros virtuales. Si la utilizas en torneos oficiales otorga 3 Oros virtuales.
+Golpe Vampiro	MisionSantiago	2001-03-GolpeVampiro	--	3	--	Arma	Promo	El portador gana +2 a la fuerza. Si la utilizas en torneos oficiales gana +5 a la fuerza.
+Totem de Guerra	MisionSantiago	2001-04-TotemdeGuerra	--	3	--	Totem	Promo	Mientras este Totem este en juego, los Oros no pueden ser destruidos.
+Troll	ColeccionesRacialesPE	CRPE-10-72-Troll	2	3	Abominacion	Aliado	Especial	Cuando entra en juego, puedes descartar una carta de tu Mano para robar una carta de tu Mazo Castillo. Si descartaste una Abominacion, puedes robar otra carta de tu Mazo Castillo.
+Lyngbakur	ColeccionesRacialesPE	CRPE-11-72-Lyngbakur	3	4	Abominacion	Aliado	Especial	Cuando entra en juego, puedes buscar una Abominacion de coste 3 o menos en tu Cementerio y ponerlo en tu Mano. Si juegas el Aliado buscado este turno, su coste de Oro se reduce en 1.
+Fuerza Abominable	ColeccionesRacialesPE	CRPE-12-72-FuerzaAbominable	--	--	--	Oro	Especial	Cuando entra en juego, puedes mostrar una Abominacion de tu Mano para mirar las 3 primeras cartas de tu Mazo Castillo y ordenarlas. Puedes destruir este Oro para que un Aliado oponente pierda 1 a la fuerza hasta el final del turno.
+Bjorn Ragnarsson	ColeccionesRacialesPE	CRPE-22-72-BjornRagnarsson	3	4	Barbaro	Aliado	Especial	Cuando entra en juego, busca un Barbaro de fuerza 2 o menos en tu Castillo y ponlo en juego sin pagar su coste.
+Rollo	ColeccionesRacialesPE	CRPE-23-72-Rollo	3	3	Barbaro	Aliado	Especial	Cuando entra en juego, puedes buscar un Oro sin habilidad en tu Castillo y ponerlo en tu Mano.
+Horda Barbara	ColeccionesRacialesPE	CRPE-24-72-HordaBarbara	--	--	--	Oro	Especial	Una vez por turno y si un Barbaro de coste 3 o mas entra en juego, puedes barajar un Barbaro de tu Cementerio en tu Mazo Castillo.
+Curandero	ColeccionesRacialesPE	CRPE-34-72-Curandero	1	3	Chaman	Aliado	Especial	Cuando entra en juego, puedes barajar un Chaman o Totem de tu Cementerio para robar 1 carta por cada Totem que tengas en juego.
+Yatiri	ColeccionesRacialesPE	CRPE-35-72-Yatiri	3	2	Chaman	Aliado	Especial	Cuando entra en juego, puedes descartar un Chaman de tu Mano para buscar un Totem en tu Mazo Castillo y ponerlo en tu Mano.
+Culto Chaman	ColeccionesRacialesPE	CRPE-36-72-CultoChaman	--	--	--	Oro	Especial	Si esta en tu Reserva de Oros, puedes destruirlo y pagar 2 Oros para que tu oponente bote una carta por cada Totem que tengas en juego.
+Vali	ColeccionesRacialesPE	CRPE-46-72-Vali	2	2	Dios	Aliado	Especial	Cuando entra en juego, puedes destruir un Dios que controles para robar una carta.
+Dellingr	ColeccionesRacialesPE	CRPE-47-72-Dellingr	4	4	Dios	Aliado	Especial	Mientras Dellingr este en juego y una vez por turno, si un Dios que controles sale del juego, tu oponente debera barajar uno de sus Aliados en juego en su Mazo Castillo.
+Concilio de Dioses	ColeccionesRacialesPE	CRPE-48-72-ConciliodeDioses	--	--	--	Oro	Especial	Si esta en tu Reserva de Oros, puedes barajarlo en tu Mazo Castillo y destruir un Dios que controles para barajar tantas cartas de tu Cementerio como la fuerza del Dios destruido.
+Guevadan	ColeccionesRacialesPE	CRPE-51-72-Guevadan	3	4	Licantropo	Aliado	Especial	Cuando entra en juego, baraja tantas cartas de tu Cementerio en tu Mazo Castillo como Licantropos controles.
+Gente Lunar	ColeccionesRacialesPE	CRPE-58-72-GenteLunar	2	2	Licantropo	Aliado	Especial	En tu Vigilia, puedes jugar a Gente Lunar desde tu Cementerio. Cuando entra en juego, no puedes descartar cartas de tu Mano hasta el final del turno.
+Beerwolf	ColeccionesRacialesPE	CRPE-59-72-Beerwolf	4	5	Licantropo	Aliado	Especial	Cuando entra en juego, puedes barajar 2 Aliados oponentes en juego. Luego, descarta 2 cartas de tu Mano.
+Manada Mortifera	ColeccionesRacialesPE	CRPE-60-72-ManadaMortifera	--	--	--	Oro	Especial	Cuando entra en juego, puedes mostrar un Licantropo de tu Mano para buscar un Licantropo en tu Mazo Castillo y onerlo en tu Mano.
+Carmilla	ColeccionesRacialesPE	CRPE-70-72-Carmilla	3	2	Vampiro	Aliado	Especial	Puede atacar cuando entra en juego. No puede portar Armas de coste 2 o menos. Si hace daño al Castillo oponente, puedes barajar tantas cartas de tu Cementerio como dano haya hecho. Si lo haces, sube esta carta a tu Mano al final del turno.
+Lord Ruthven	ColeccionesRacialesPE	CRPE-71-72-LordRuthven	3	3	Vampiro	Aliado	Especial	Puede atacar cuando entra en juego. Cuando ataca, puedes elegir un Aliado oponente para que lo bloquee.
+Vampiros Amenazantes	ColeccionesRacialesPE	CRPE-72-72-VampirosAmenazantes	--	--	--	Oro	Especial	Si solo controlas Vampiros, puedes pagar este Oro para que tu oponente bote una carta de su Mazo Castillo. Si esa carta es Aliado, baraja un Vampiro de tu Cementerio en tu Mazo Castillo.
