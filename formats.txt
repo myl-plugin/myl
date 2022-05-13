@@ -1,0 +1,30 @@
+<formatdefinitions>
+
+<format>
+	<label>Primera Era</label>
+		<set>ElReto</set>
+		<set>ElRetoX</set>
+		<set>MundoGotico</set>
+		<set>MundoGoticoX</set>
+		<set>LaIradelNahual</set>
+		<set>Ragnarok</set>
+		<set>MisionSantiago</set>
+		<set>LaCofradia</set>
+		<set>EspiritudeDragon</set>
+</format>
+
+<format>
+	<label>Primera Era X</label>
+		<set>ElReto</set>
+		<set>ElRetoX</set>
+		<set>MundoGotico</set>
+		<set>MundoGoticoX</set>
+		<set>LaIradelNahual</set>
+		<set>Ragnarok</set>
+		<set>MisionSantiago</set>
+		<set>LaCofradia</set>
+		<set>EspiritudeDragon</set>
+		<set>ColeccionesRacialesPE</set>
+</format>
+
+</formatdefinitions>

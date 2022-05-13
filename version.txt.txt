@@ -1,0 +1,9 @@
+<version>
+
+<lastupdateYYMMDD>220512</lastupdateYYMMDD>
+<quality>LOW</quality>
+<versionurl>https://raw.githubusercontent.com/myl-plugin/myl/main/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/myl-plugin/myl/main/updatelist.txt</updateurl>
+<message>Agregadas cartas de Colecciones Raciales.</message>
+
+</version>
