@@ -887,7 +887,7 @@ EspiritudeDragon/EDR-115-236-TchiYeu.jpg https://raw.githubusercontent.com/myl-p
 EspiritudeDragon/EDR-116-236-Kitsune.jpg https://raw.githubusercontent.com/myl-plugin/myl/main/sets/LQ/EspiritudeDragon/EDR-116-236-Kitsune.jpg
 EspiritudeDragon/EDR-117-236-Yosei.jpg https://raw.githubusercontent.com/myl-plugin/myl/main/sets/LQ/EspiritudeDragon/EDR-117-236-Yosei.jpg
 EspiritudeDragon/EDR-118-236-Tanuki.jpg https://raw.githubusercontent.com/myl-plugin/myl/main/sets/LQ/EspiritudeDragon/EDR-118-236-Tanuki.jpg
-EspiritudeDragon/EDR-119-236-Chiang Shih.jpg https://raw.githubusercontent.com/myl-plugin/myl/main/sets/LQ/EspiritudeDragon/EDR-119-236-Chiang Shih.jpg
+EspiritudeDragon/EDR-119-236-ChiangShih.jpg https://raw.githubusercontent.com/myl-plugin/myl/main/sets/LQ/EspiritudeDragon/EDR-119-236-ChiangShih.jpg
 EspiritudeDragon/EDR-120-236-SerpienteBlanca.jpg https://raw.githubusercontent.com/myl-plugin/myl/main/sets/LQ/EspiritudeDragon/EDR-120-236-SerpienteBlanca.jpg
 EspiritudeDragon/EDR-121-236-Kilin.jpg https://raw.githubusercontent.com/myl-plugin/myl/main/sets/LQ/EspiritudeDragon/EDR-121-236-Kilin.jpg
 EspiritudeDragon/EDR-122-236-Yurei.jpg https://raw.githubusercontent.com/myl-plugin/myl/main/sets/LQ/EspiritudeDragon/EDR-122-236-Yurei.jpg
